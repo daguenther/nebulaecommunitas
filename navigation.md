@@ -1,4 +1,4 @@
-# MDwiki
+# NebulaeCommunitas
 
 [About](index.md)
 [Quickstart](quickstart.md)
