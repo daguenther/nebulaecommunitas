@@ -47,15 +47,15 @@ Deacons serve to serve, helping the church practically so that others can focus 
 
 ### Meetings
 The church meets together regularly to encourage each other. (Hebrew 10:25)
-### (C.1) Teaching
+### Teaching
 The Word of God is the life-blood of any church. There is perhaps a subtle heresy that has crawled into our midst, that preaching is enough for believers. Thus we structure the entire week around the Sunday morning service, in which people get their nourishment in the Word. This has created a multitude of problems, as preachers had to respond to the increasing demand of having both believers and non believers in their midst. Thus the dual service was launched. It was designed to handle both parties, those who were not yet believers, and the deeper students of the Word. Thus, it became increasingly harder for anyone to take this mantle, often with men committing their entire lives to just that, preaching. Now this is not to say that they did not succeed. Men who had the gift of preaching such as Spurgeon, Whitefield, and Graham have been given the gift of preaching. This means they can hold an audience and cause them to come to Christ. Thousands of people went away transformed, however, while this a function of the church, we must remember that this is not the church. The Church is the new community joined by those who have been saved by the the blood of Christ, and they need teaching. No longer do they need preaching, because preaching is for those outside. Teaching is for those inside the church.
 
-Consider these verses: Acts 2:42, Mark 6:12, Matthew 4:17, 1 Tim 4:11, Ephesians 4:11
+>*Consider these verses: Acts 2:42, Mark 6:12, Matthew 4:17, 1 Tim 4:11, Ephesians 4:11*
 
 As such, the structure of the Church must be reflected to pursue excellence in teaching. This means that active education is a key foundation for the life of the Church.
 
 Hand in hand with teaching goes Biblical theology. If the Bible is not the source of meaning, then something else quickly takes it place. While we do desire to have effective teaching as part of the core of Planet Church, good teaching requires good material to be covered. Too often has the Word of God been dismissed, because of some new issue or some new discussion. Too easy is it for us to disregard what was said, because of the implications of that belief. Any other light to our path is a poor substitute for the light that burns brighter then day.
-## (C.2) Community
+## Community
 Without community there is no body of Christ. Only individuals who do not build each other up.
 Ministries:
 The church participates in various ministries, being equipped by the APEET; doing the work laid out before them. (Ephesians 2:10, 4:11-12, 1 Corinthians 12:27-31, 1 Peter 4:10)
