@@ -30,7 +30,11 @@ If any of these aspects are ignored, the church suffers
 
 
 ## Roles
+
 ### Apostle 
+=======
+### Apostle
+
 Apostles serve to establish new churches, but going out and proclaiming the truth where no one has yet heard the Gospel. An Apostle views these new churches as new-born children, continuing to care for them until they reach a maturity in the faith.
 ### Prophets
 Prophets serve to reveal the thoughts of God to the church. Their words must be tested by other prophets, as a safe-guard against heresy.
