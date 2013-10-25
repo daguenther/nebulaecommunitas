@@ -1,0 +1,3 @@
+Study Hall (H.2.1)
+
+Students often are not motivated to work on homework, often putting it aside until the last moment. Study hall seeks to solve this problem, but putting into place a time scheduled every day for the student to work on homework. Depending on the level, the times could be adjusted. This provides the students with a healthy habit of working at home, as this is something that will be needed in college and their respective jobs. The homework assigned could range from Bible verses to memorize, to a video to prepare them for class the day after.
