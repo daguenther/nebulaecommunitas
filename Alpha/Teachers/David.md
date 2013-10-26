@@ -1,12 +1,12 @@
 ##Classroom (60 minutes)
-Engagement media (cartoon, video, puzzle) - something not overtly labelled "school") - pre-bell
-Sum at entire lesson + explain what students will know at the end - 2 minutes
-10 minute lecture
-Difficult questions to class with answers - 10 minutes
-10 minute lecture
-Open (for examples, more questions, demonstration) - 20 minutes
-ending questions - 6 minutes
-Summation of content - 2 minutes
++ Engagement media (cartoon, video, puzzle) - something not overtly labelled "school") - pre-bell
++ Sum at entire lesson + explain what students will know at the end - 2 minutes
++ 10 minute lecture
++ Difficult questions to class with answers - 10 minutes
++ 10 minute lecture
++ Open (for examples, more questions, demonstration) - 20 minutes
++ ending questions - 6 minutes
++ Summation of content - 2 minutes
 
 ###Additional notes:
 Assignments are posted on-line - and do not take up classroom time
