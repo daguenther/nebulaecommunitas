@@ -5,6 +5,7 @@
 Nebulae Communitas is the framework for "cloud communities", people connected to each other.
 
 The three main focuses for this connection are the following:
+
 * Church
 * Home
 * School
@@ -22,6 +23,7 @@ This was first carrried out by a wiki I created to work though these ideas. As t
 ## Status
 
 NebCom is not operational:
+
   * Constitutions are still in need of polish and revision
   * Curriculum needs be to draw up for Planet School
   * Core needs to be finished
