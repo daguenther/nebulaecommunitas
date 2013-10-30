@@ -17,7 +17,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="4 - Community Facility.svg"
-   inkscape:export-filename="/home/david/Documents/NEBCOM resources/Floor plans/Community Facility/3 - Community Facility.png"
+   inkscape:export-filename="/home/david/Documents/NEBCOM resources/Floor plans/Community Facility/4 - Community Facility.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -2154,7 +2154,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>

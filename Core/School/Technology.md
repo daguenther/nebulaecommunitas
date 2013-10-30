@@ -1,3 +1,33 @@
+# Features
+
+* Quartz glass storage medium
+    * Must be able to be read easily without a computer - stored in pure text format
+* Local servers that connect with global servers
+    * All information must be local
+    * All services must be local
+* Dvorak as typing system
+* Markdown, Latex, and Pandoc as format
+    * for papers
+    * Math / Spreadsheets
+    * Presentations / Impress.js
+    * Lesson plans
+* Open formats for other
+    * OPUS for audio
+    * WebM for video
+    * WebP for pictures
+    * PNG for drawings
+* Git as backend for assignments / lesson plans
+* Wiki for school organization
+* Open Source Tecnology
+    * Linux/Gnu/Ubuntu
+    * Servers
+    * Applications
+    * Operating Systems
+* Personal Online Space
+    * Students have personal web space
+
+# Older Information
+
 Digital Privacy (S.6.1)
 
 See this https://ssd.eff.org/ (also in pdf form in case the site goes down) (CC attribution non-commercial licence)
