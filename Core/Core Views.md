@@ -32,3 +32,7 @@ The interaction between people and knowledge need not be divorced from each othe
 + Relationship requires committment
 + Relationship requires change and repentence
 + Relationsihp requires living life together
+
+#Further Implementations
++ Open Hearts Policy (no one turned away)
+    + Applies to unborns and newborns, we will adopt, always. Aviod abortion, always

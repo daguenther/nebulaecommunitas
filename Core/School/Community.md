@@ -1,3 +1,18 @@
+# Features
+
+* Learning Fairs (Speed Geeking)
+* Learning to communicate
+    * Pecha Kucha
+    * Communication Collaborative Club
+        * Improv
+        * Debate
+        * Public Speaking
+        * Short skits
+* Event Nights (activites while getting to know people)
+    * Speed Friendships
+    * 10-10
+* Connection with other schools
+
 Community is incredibly important for learning. Not only does it provide a safe environment where students do not feel threatened, but it provides the very framework for students to learn. A strong community creates a strong culture, and a strong culture in turn seeps into the minds of everyone present. It is through community that one often feels empowered.
 
 One of the traditional problems of school is the lack of community building. Students across grades often do not have access to each other, and thus the gap is continued. What made my Bible school experience so great was not the classroom time, but the community that I built there. Community transforms individuals into community thinkers, and if we want students to grow to have a heart to love others, we had best model that inside the school first.
