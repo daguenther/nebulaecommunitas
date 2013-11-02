@@ -9,3 +9,4 @@
 * Solar panels on outer walls
 * Windside or similar design wind power
 * Geothermal heating
+* water purifaction system through plants on roof
