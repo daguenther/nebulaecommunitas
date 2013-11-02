@@ -17,6 +17,7 @@
     * WebP for pictures
     * PNG for drawings
 * Git as backend for assignments / lesson plans
+    * Git-cola as user interface for all platforms
 * Wiki for school organization
 * Open Source Tecnology
     * Linux/Gnu/Ubuntu
@@ -25,6 +26,12 @@
     * Operating Systems
 * Personal Online Space
     * Students have personal web space
+* Simplicity
+    * Technology used must be simple enough that anyone with 0-zero knowledge can use it (0PK policy)
+    * Some students and teachers are more capable with technology, and will serve to make the system run simply for others
+* Choice
+    * A student is always given the opportunity to request not using a computer
+    * A teacher must allow students to submit work without using a computer
 
 # Older Information
 
