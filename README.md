@@ -14,3 +14,7 @@ The grand Idea is to use the analogy of the Galaxy. We are all part of the metap
 An important part of this analogy is to remember that all solar systems must orbit a Sun, and in our case, must orbit The Son. While Black Holes may provide the same functionality, they do not provide the light needed. Communities not centred on Christ will not be able to sustain life. I recognize that each has a different relationship with God, but that does not mean that God has changed, His Son still remains Jesus Christ, and the Holy Spirit continues to work in each of us.
 
 This is essentially a brain child of David Guenther, third culture kid and dreamer.
+
+##Status
+
+This is not production ready
