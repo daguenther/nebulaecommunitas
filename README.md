@@ -18,3 +18,9 @@ This is essentially a brain child of David Guenther, third culture kid and dream
 ##Status
 
 This is not production ready
+
+##Tools Used
+* Markdown editor of your choice
+* Inkscape for .SVG
+* Sweet Home 3D for .sh3d
+* Git to upload
