@@ -12,7 +12,7 @@ Teachers have a relationship with a specific knowledge; their role is to help fo
 Students goal is to build a relationship with knowledge. The most effective way for students to do this is to build a relationship with a teacher. Other forms include learning from a teacher without relationship, and investigating the knowledge without a teacher, but neither of these two systems are as effective as the first. As students gain knowledge, they are then capable of imparting that knowledge to other students.
 
 ##Layout:
-###Elementary Education (ages 0-12)
+###Elementary Education (ages 0-12) [Core]
 > Students learn the basics through parent involvement (one classroom for many students)
 
 
@@ -34,7 +34,7 @@ Students goal is to build a relationship with knowledge. The most effective way 
     + Resting
     + getting exercise
     
-##Secondary Education (ages 13-20)
+##Secondary Education (ages 13-20) [Mantle]
 >Specialized Teacher involvement
 
 ### Areas of knowledge (history and truth)
@@ -61,7 +61,7 @@ Students goal is to build a relationship with knowledge. The most effective way 
     * Rest
     * Exercise
 
-### Specific Knowledge Area
+### Specific Knowledge Area [Crust]
 * Physical Engineering
 * Chemical Engineering and Analysis
 * Biological Analysis
