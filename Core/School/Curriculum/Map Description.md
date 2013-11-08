@@ -2,14 +2,6 @@
 
 Building a relationship between the different types of knowledge
 
-#Communication Knowledge
-##Language
-###Level 1
-* Writing the Alphabet
-###Level 2
-* Writing words
-###Level 3
-* Writing sentences
 
 #Thinking Knowledge
 ##Math
@@ -35,15 +27,6 @@ Building a relationship between the different types of knowledge
 ###Level 1
 * How to interact with others
 
-#Spiritual Knowledge
-##Bible
-###Level 1
-* Who is God
-###Level 2
-* Who is Jesus
-###Level 3
-* Who is the Holy Spirit
-
 #Physical Knowledge
 ##Body
 ###Level 1
@@ -52,3 +35,11 @@ Building a relationship between the different types of knowledge
 * Right things to eat
 ###Level 3
 * Good exercise
+
+#Futher Ideas
+
+* Students 12 and under attend mandatory bible classes, after that it is their choice
+* Bible classes are taught by teachers ordained to teach from the various church's
+* Parents from the church community work to educate students until they are 13
+* 0-12 represents the core devleopment
+* 13-24 represents the mantle development

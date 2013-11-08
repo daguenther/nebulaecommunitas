@@ -5,6 +5,11 @@
 * Local servers that connect with global servers
     * All information must be local
     * All services must be local
+* Central Server
+    * provides applications for basic uses
+        * documents (markdown and WYSIWYG)
+        * presentations (implress.js and markdown)
+        * Spreadsheets (
 * Dvorak as typing system
 * Markdown, Latex, and Pandoc as format
     * for papers
@@ -32,6 +37,13 @@
 * Choice
     * A student is always given the opportunity to request not using a computer
     * A teacher must allow students to submit work without using a computer
+* Software to use  
+    * Stacke-Edit for Markdown+
+    * Ubuntu for servers, tablets, phones, desktops, laptops, and tv's
+    * Bracket for code editing
+    * QT creator for app design
+    * Gimp for image editing
+    * Inkscape for vector editing
 
 # Older Information
 
