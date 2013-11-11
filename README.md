@@ -22,5 +22,6 @@ This is not production ready
 ##Tools Used
 * Markdown editor of your choice
 * Inkscape for .SVG
+* Dia for .dia flow chart diagrams
 * Sweet Home 3D for .sh3d
 * Git to upload
