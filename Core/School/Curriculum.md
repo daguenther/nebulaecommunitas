@@ -130,10 +130,52 @@ Building a relationship between the different types of knowledge
 ###Level 3
 * Good exercise
 
+#Crust (job skills development)
+>different vocational skills
+
+
+* Linguistics
+    * Foreign Languages
+    * Foreign Cultures
+* Artist
+    * Writer
+    * Kinetic
+    * Audio
+    * Visual
+* Higher math
+    * Engineering
+        * Chemist
+        * Physicist
+        * Computer Science
+* Biologist
+    * Doctor
+    * Agriculture
+* Theology
+    * Apostles
+    * Prophets
+    * Evangelism
+    * Pastoral
+    * Teaching
+* Social Services
+    * Police Officer
+    * Firefighter
+    * Teacher
+    * Politician
+    * Historian
+* Business
+    * Higher Financial Math
+    * Leadership
+
+    
+    
+    
+    
+    
+    
 #Futher Ideas
 
 * Students 12 and under attend mandatory bible classes, after that it is their choice
 * Bible classes are taught by teachers ordained to teach from the various church's
 * Parents from the church community work to educate students until they are 13
-* 0-12 represents the core devleopment
+* 0-12 represents the core development
 * 13-24 represents the mantle development
