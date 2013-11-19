@@ -20,8 +20,7 @@ This is essentially a brain child of David Guenther, third culture kid and dream
 This is not production ready
 
 ##Tools Used
-* Markdown editor of your choice
+* Latex for documents with Lyx as editor of choice (.lyx)
 * Inkscape for .SVG
-* Dia for .dia flow chart diagrams
 * Sweet Home 3D for .sh3d
 * Git to upload

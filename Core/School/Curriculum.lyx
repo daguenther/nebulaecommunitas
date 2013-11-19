@@ -1,0 +1,371 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize letterpaper
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Curriclum
+\end_layout
+
+\begin_layout Author
+by David Guenther
+\end_layout
+
+\begin_layout Abstract
+This specifies the education of a child, though colloboration with Church,
+ School, and Homes.
+ This outlines the relationship between the different content areas, and
+ the process in which they are taught
+\end_layout
+
+\begin_layout Part*
+Inner Core
+\end_layout
+
+\begin_layout Standard
+Taught by everyone, and central to the development of a child.
+ This is the focus of Church
+\end_layout
+
+\begin_layout Itemize
+Father
+\end_layout
+
+\begin_layout Itemize
+Son
+\end_layout
+
+\begin_layout Itemize
+Holy Spirit
+\end_layout
+
+\begin_layout Part*
+Outer Core
+\end_layout
+
+\begin_layout Standard
+The knowledge of the Bible, which is the means in which we understand truth,
+ and how we live in response to that truth.
+\end_layout
+
+\begin_layout Itemize
+Truth
+\end_layout
+
+\begin_layout Itemize
+History
+\end_layout
+
+\begin_layout Itemize
+Culture
+\end_layout
+
+\begin_layout Standard
+Culture is the set of practices and behavior outlined as norm.
+ In the Christian Church, our culture is one of holiness and love.
+ Such a culture is a result of our history, which in turn is a result of
+ the truth of God's word.
+ We must understand truth, and also how history has shown previous appliction
+ of truth, to understand how to form the culture today.
+\end_layout
+
+\begin_layout Standard
+This is educated to children through their parents.
+ The parents in turn receive this education from Church.
+\end_layout
+
+\begin_layout Part*
+Mantle
+\end_layout
+
+\begin_layout Standard
+This knowledge is built upon our knowledge of the Word, and is the essential
+ knowledge required for any profession.
+\end_layout
+
+\begin_layout Itemize
+Thinking
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Math
+\end_layout
+
+\begin_layout Itemize
+Logic
+\end_layout
+
+\begin_layout Itemize
+Science
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Communication
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Language
+\end_layout
+
+\begin_layout Itemize
+Creativity
+\end_layout
+
+\begin_layout Itemize
+Speaking
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Health
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Nutritian
+\end_layout
+
+\begin_layout Itemize
+Rest
+\end_layout
+
+\begin_layout Itemize
+Safety
+\end_layout
+
+\end_deeper
+\begin_layout Part*
+Upper Mantle
+\end_layout
+
+\begin_layout Standard
+These contain fields of study for those entering careers
+\end_layout
+
+\begin_layout Itemize
+Artists
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Writer
+\end_layout
+
+\begin_layout Itemize
+Drama
+\end_layout
+
+\begin_layout Itemize
+Music
+\end_layout
+
+\begin_layout Itemize
+Painter
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Higher Math
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Engineering
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Chemist
+\end_layout
+
+\begin_layout Itemize
+Physicist
+\end_layout
+
+\begin_layout Itemize
+Computer Scientist
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+Biologist
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Doctor
+\end_layout
+
+\begin_layout Itemize
+Agriculture
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Theology
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Apostle
+\end_layout
+
+\begin_layout Itemize
+Prophet
+\end_layout
+
+\begin_layout Itemize
+Evangelist
+\end_layout
+
+\begin_layout Itemize
+Pastor
+\end_layout
+
+\begin_layout Itemize
+Teacher
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Social Services
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Polic Officer
+\end_layout
+
+\begin_layout Itemize
+Firefighter
+\end_layout
+
+\begin_layout Itemize
+Teacher
+\end_layout
+
+\begin_layout Itemize
+Politician
+\end_layout
+
+\begin_layout Itemize
+Historian
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Business
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Higher Financial Math
+\end_layout
+
+\begin_layout Itemize
+Leadership
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Linguistics
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Foreign Languages
+\end_layout
+
+\begin_layout Itemize
+Foregn Cultures
+\end_layout
+
+\end_deeper
+\begin_layout Part*
+Crust
+\end_layout
+
+\begin_layout Standard
+This is the layer of home, and is built upon all the rest
+\end_layout
+
+\begin_layout Itemize
+Fathers
+\end_layout
+
+\begin_layout Itemize
+Mothers
+\end_layout
+
+\begin_layout Itemize
+Children
+\end_layout
+
+\begin_layout Standard
+Mothers and Fathers work side by side, and are reponsible for their chilren,
+ which sit under them
+\end_layout
+
+\end_body
+\end_document
