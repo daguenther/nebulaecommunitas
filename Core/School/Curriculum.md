@@ -1,7 +1,7 @@
 #Description of Map
 
 Building a relationship between the different types of knowledge
-
+>> need to have separate documents for each subject, not here
 
 # Inner Core
 * taught by everyone
