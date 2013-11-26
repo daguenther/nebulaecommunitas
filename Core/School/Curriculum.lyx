@@ -12,7 +12,7 @@
 \font_roman default
 \font_sans default
 \font_typewriter default
-\font_default_family default
+\font_default_family rmdefault
 \use_non_tex_fonts false
 \font_sc false
 \font_osf false
@@ -65,7 +65,7 @@ Curriclum
 \end_layout
 
 \begin_layout Author
-by David Guenther
+David Guenther
 \end_layout
 
 \begin_layout Abstract
@@ -157,6 +157,16 @@ Logic
 Science
 \end_layout
 
+\begin_deeper
+\begin_layout Itemize
+Natural
+\end_layout
+
+\begin_layout Itemize
+Social
+\end_layout
+
+\end_deeper
 \end_deeper
 \begin_layout Itemize
 Communication
@@ -203,7 +213,7 @@ These contain fields of study for those entering careers
 \end_layout
 
 \begin_layout Itemize
-Artists
+Advanced Creativity
 \end_layout
 
 \begin_deeper
@@ -225,7 +235,7 @@ Painter
 
 \end_deeper
 \begin_layout Itemize
-Higher Math
+Advanced Math
 \end_layout
 
 \begin_deeper
@@ -235,11 +245,7 @@ Engineering
 
 \begin_deeper
 \begin_layout Itemize
-Chemist
-\end_layout
-
-\begin_layout Itemize
-Physicist
+Buiding / Design
 \end_layout
 
 \begin_layout Itemize
@@ -249,7 +255,36 @@ Computer Scientist
 \end_deeper
 \end_deeper
 \begin_layout Itemize
-Biologist
+Advanced Sciences
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Social
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Linguistics
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Foreign Languages
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Historian
+\end_layout
+
+\begin_layout Itemize
+Culturalist
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Natural
 \end_layout
 
 \begin_deeper
@@ -261,35 +296,48 @@ Doctor
 Agriculture
 \end_layout
 
+\begin_layout Itemize
+Chemist
+\end_layout
+
+\begin_layout Itemize
+Physicist
+\end_layout
+
+\end_deeper
 \end_deeper
 \begin_layout Itemize
-Theology
+Advanced Communication
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
-Apostle
-\end_layout
-
-\begin_layout Itemize
-Prophet
-\end_layout
-
-\begin_layout Itemize
-Evangelist
-\end_layout
-
-\begin_layout Itemize
-Pastor
-\end_layout
-
-\begin_layout Itemize
-Teacher
+Thesis
 \end_layout
 
 \end_deeper
 \begin_layout Itemize
-Social Services
+Advanced Logic
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Leadership
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Advanced Bible
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Theology
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Advanced Health
 \end_layout
 
 \begin_deeper
@@ -307,38 +355,6 @@ Teacher
 
 \begin_layout Itemize
 Politician
-\end_layout
-
-\begin_layout Itemize
-Historian
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-Business
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-Higher Financial Math
-\end_layout
-
-\begin_layout Itemize
-Leadership
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-Linguistics
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-Foreign Languages
-\end_layout
-
-\begin_layout Itemize
-Foregn Cultures
 \end_layout
 
 \end_deeper

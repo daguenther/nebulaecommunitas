@@ -27,7 +27,7 @@
 \paperfontsize default
 \spacing single
 \use_hyperref false
-\papersize default
+\papersize letterpaper
 \use_geometry false
 \use_amsmath 1
 \use_esint 1
@@ -80,7 +80,8 @@ Inner Core
 \end_layout
 
 \begin_layout Standard
-Taught by everyone, and central to the development of a child
+Taught by everyone, and central to the development of a child.
+ This is the focus of Church
 \end_layout
 
 \begin_layout Itemize
@@ -341,5 +342,30 @@ Foregn Cultures
 \end_layout
 
 \end_deeper
+\begin_layout Part*
+Crust
+\end_layout
+
+\begin_layout Standard
+This is the layer of home, and is built upon all the rest
+\end_layout
+
+\begin_layout Itemize
+Fathers
+\end_layout
+
+\begin_layout Itemize
+Mothers
+\end_layout
+
+\begin_layout Itemize
+Children
+\end_layout
+
+\begin_layout Standard
+Mothers and Fathers work side by side, and are reponsible for their chilren,
+ which sit under them
+\end_layout
+
 \end_body
 \end_document
