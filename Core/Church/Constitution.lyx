@@ -25,9 +25,10 @@
 \bibtex_command default
 \index_command default
 \paperfontsize default
+\spacing single
 \use_hyperref false
 \papersize default
-\use_geometry false
+\use_geometry true
 \use_amsmath 1
 \use_esint 1
 \use_mhchem 1
@@ -42,6 +43,8 @@
 \shortcut idx
 \color #008000
 \end_index
+\topmargin 3cm
+\bottommargin 3cm
 \secnumdepth 3
 \tocdepth 3
 \paragraph_separation indent
@@ -83,7 +86,7 @@ The church is a community for a group of believers who live in close proximity
 
 \begin_layout Standard
 The Church is the representation of Christ on earth.
- While the church has often gone astray from Her Lord and Maker, she nevertheles
+ While the church has often gone astray from her Lord and Maker, she nevertheles
 s remains loved by God.
  We hold a commitment to the church, but it is even more then that, for
  we are the church.
@@ -307,16 +310,11 @@ Ministries
 \end_layout
 
 \begin_layout Standard
-The church participates in various ministries, being equipped by the APEET;
- doing the work laid out before them.
+The church participates in various ministries, from serving the church,
+ to serving the community, being equipped by the APEET; doing the work laid
+ out before them.
  (Ephesians 2:10, 4:11-12, 1 Corinthians 12:27-31, 1 Peter 4:10).
  Ministries range across all groups, allowing those called to participate.
- Any ministry is headed by a deacon belonging to the church.
- This deacon is commissioned by a unanimous vote by all elders belonging
- to the mantle group.
- Updates the ministry will be given at the crust group.
- Any member from the church at this point is allowed to join the ministry,
- so far as the deacon accepts it.
 \end_layout
 
 \begin_layout Subsection
@@ -341,8 +339,35 @@ Called to Ministry, Missions
 Those who feel called, or others see as serving in a certain role, will
  be first mentioned in the core groups.
  Once the core group affirms the direction informally, it is brought to
- the Mantle group, which voices opinions (no votes) as to the possible concerns.
- 
+ the Mantle group, which votes unanimously on the person in the new role.
+ If someone does not vote yes, it is then an opportunity to provide constructive
+ criticism on where they could serve, or steps needed before they can serve.
+ Once this decision has been made, the person is commissioned at the crust
+ group, having hands laid upon them by the elders, and then prayed for by
+ the entire assembly.
+ All members in ministry are considered deacons, all members in missions
+ are considered apostles.
+\end_layout
+
+\begin_layout Subsection
+Updates
+\end_layout
+
+\begin_layout Standard
+For those serving in various capacities, a monthly report must be given,
+ and if not in person, read to the entire crust assembly.
+\end_layout
+
+\begin_layout Subsection
+Stepping down
+\end_layout
+
+\begin_layout Standard
+If the a member serving feels this is no longer a direction for them, they
+ will mention this in their monthly report.
+ At this point, the congregation will pray for someone to rise up to fill
+ their place.
+ This replacing will follow the normal procedure.
 \end_layout
 
 \begin_layout Section
