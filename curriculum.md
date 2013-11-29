@@ -1,4 +1,4 @@
-Warning! This is a draft
+Warning! This is a draft
 
 ## Curriculum
-![](https://github.com/daguenther/nebulaecommunitas/blob/master/Core/School/5-curriculum%20map.png)
+![](https://raw.github.com/daguenther/nebulaecommunitas/master/Core/School/5-curriculum%20map.png)
