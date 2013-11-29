@@ -1,5 +1,3 @@
-#Church Constitution
-
 Purpose
 =======
 
