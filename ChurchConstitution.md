@@ -1,6 +1,4 @@
 #Church Constitution
->By David Guenther, under a GPL liscense
- 
 
 Purpose
 =======
