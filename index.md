@@ -31,3 +31,7 @@ NebCom is not operational:
 
 ## Liscense
 All content is under a GPL v3 liscense
+
+## Contact
+My Name is David Guenther, and you can find more about here
+<http://about.me/daguenther>
