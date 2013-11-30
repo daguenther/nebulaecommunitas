@@ -7,6 +7,5 @@
 [School Constitution](schoolconstitution.md)
 [Home Constitution](home.md)
 [Curriculum](curriculum.md)
-[Development](https://github.com/daguenther/nebulaecommunitas)
 
 [gimmick:theme](cerulean)
