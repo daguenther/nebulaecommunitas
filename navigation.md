@@ -5,6 +5,7 @@
 [Floor Plans](floorplans.md)
 [Church Constitution](ChurchConstitution.md)
 [School Constitution](schoolconstitution.md)
+[Home Constitution](home.md)
 [Curriculum](curriculum.md)
 [Development](https://github.com/daguenther/nebulaecommunitas)
 
