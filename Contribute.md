@@ -3,10 +3,11 @@
 <https://github.com/daguenther/nebulaecommunitas>
 
 Click download Zip in the bottom right hand corner
+
+#Lyx
 
-#Markdown
-
-I use markdown as the format for all text documents, and if you so wish to view them in their intended format, you will need a markdown previewer. There are many to go around, and a simple google search for the platform of your choice should yeild many options.
+I use the document process Lyx, which relies on LaTex technology. Final drafts will be exported to PDF.
+You can find more information on Lyx here <http://www.lyx.org/>
 
 Otherwise, all files can be opened as pure text, requireing no additional software
 
