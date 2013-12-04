@@ -1,12 +1,14 @@
 # NebulaeCommunitas
 
 [About](index.md)
-[Church Constitution](ChurchConstitution.md)
-[School Constitution](schoolconstitution.md)
-[Home Constitution](home.md)
+[Constitutions]()
+* [Church Constitution](ChurchConstitution.md)
+* [School Constitution](schoolconstitution.md)
+* [Home Constitution](home.md)
 [Curriculum](curriculum.md)
 [Model of Humanity](humanity.md)
-[Community Learning Facility](communitylearning.md)
-[Community Living Facility](communityliving.md)
+[Floor Plans]()
+* [Community Learning Facility](communitylearning.md)
+* [Community Living Facility](communityliving.md)
 
 [gimmick:theme](cerulean)
