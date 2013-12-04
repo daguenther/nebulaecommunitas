@@ -25,9 +25,10 @@
 \bibtex_command default
 \index_command default
 \paperfontsize default
+\spacing single
 \use_hyperref false
 \papersize default
-\use_geometry false
+\use_geometry true
 \use_amsmath 1
 \use_esint 1
 \use_mhchem 1
@@ -42,6 +43,8 @@
 \shortcut idx
 \color #008000
 \end_index
+\topmargin 3cm
+\bottommargin 3cm
 \secnumdepth 3
 \tocdepth 3
 \paragraph_separation indent
@@ -83,7 +86,7 @@ The church is a community for a group of believers who live in close proximity
 
 \begin_layout Standard
 The Church is the representation of Christ on earth.
- While the church has often gone astray from Her Lord and Maker, she nevertheles
+ While the church has often gone astray from her Lord and Maker, she nevertheles
 s remains loved by God.
  We hold a commitment to the church, but it is even more then that, for
  we are the church.
@@ -263,10 +266,12 @@ Core Groups
 
 \begin_layout Standard
 The church meets together in core groups regularly to disciple each other.
- These groups range from 1 to 12 people.
+ These groups ideally range from 3 to 12 people.
  Meeting informally, for the purpose of discipleship, fellowship, and life.
- Core Groups meet at a minimum daily, and are ideally people all residing
- in the same location.
+ Core Groups meet frequently during the week, and thus are best constructed
+ with local people.
+ Communion is celebrated in this group, as they meet over meals, sing songs,
+ and discuss their day.
 \end_layout
 
 \begin_layout Subsection
@@ -275,8 +280,8 @@ Mantle Groups
 
 \begin_layout Standard
 The church meets together in mantle groups regularly to encourage each other.
- These groups consist of no more then 60 people, consisting of 5 or more
- core groups, composed of elders, teachers, prophets, encouragers, songs,
+ These groups consist of no more then 72 people, consisting of 6 or more
+ core groups, composed of elders, teachers, prophets, encourager's, songs,
  etc.
  (1 Cor 11:33, 12:26, Hebrews 3:13, 10:24, 25).
  It is in this group that communion, baptism, encouragement, teaching, prophecie
@@ -291,11 +296,22 @@ Crust Group
 
 \begin_layout Standard
 The church meets together in crust groups to keep the unity of the church.
- This group consists of up to 24 groups of 60 people.
+ This group consists of up to 12 groups of 72 people (864).
  It is in this group that singing corporately happens, teaching from the
  various teachers dispersed throughout the mantle groups, prophecies, and
  missions/ministry focus.
  Crust groups meet at a minimum once a month.
+ 
+\end_layout
+
+\begin_layout Subsection
+Global Groups
+\end_layout
+
+\begin_layout Standard
+Once a year the church meets, gathering the believers from the surrounding
+ city, nation, and world, to encourage each other, bring others up to date
+ about what is happening, break bread, and worship together.
 \end_layout
 
 \begin_layout Section
@@ -307,16 +323,11 @@ Ministries
 \end_layout
 
 \begin_layout Standard
-The church participates in various ministries, being equipped by the APEET;
- doing the work laid out before them.
+The church participates in various ministries, from serving the church,
+ to serving the community, being equipped by the APEET; doing the work laid
+ out before them.
  (Ephesians 2:10, 4:11-12, 1 Corinthians 12:27-31, 1 Peter 4:10).
  Ministries range across all groups, allowing those called to participate.
- Any ministry is headed by a deacon belonging to the church.
- This deacon is commissioned by a unanimous vote by all elders belonging
- to the mantle group.
- Updates the ministry will be given at the crust group.
- Any member from the church at this point is allowed to join the ministry,
- so far as the deacon accepts it.
 \end_layout
 
 \begin_layout Subsection
@@ -341,8 +352,94 @@ Called to Ministry, Missions
 Those who feel called, or others see as serving in a certain role, will
  be first mentioned in the core groups.
  Once the core group affirms the direction informally, it is brought to
- the Mantle group, which voices opinions (no votes) as to the possible concerns.
- 
+ the Mantle group, which votes unanimously on the person in the new role.
+ If someone does not vote yes, it is then an opportunity to provide constructive
+ criticism on where they could serve, or steps needed before they can serve.
+ Once this decision has been made, the person is commissioned at the crust
+ group, having hands laid upon them by the elders, and then prayed for by
+ the entire assembly.
+ All members in ministry are considered deacons, all members in missions
+ are considered apostles.
+\end_layout
+
+\begin_layout Subsection
+Updates
+\end_layout
+
+\begin_layout Standard
+For those serving in various capacities, a monthly report must be given,
+ and if not in person, read to the entire crust assembly.
+\end_layout
+
+\begin_layout Subsection
+Stepping down
+\end_layout
+
+\begin_layout Standard
+If the a member serving feels this is no longer a direction for them, they
+ will mention this in their monthly report.
+ At this point, the congregation will pray for someone to rise up to fill
+ their place.
+ This replacing will follow the normal procedure.
+\end_layout
+
+\begin_layout Subsection
+Growth
+\end_layout
+
+\begin_layout Standard
+The church must be called to divide at a certain point, to maintain the
+ internal integrity.
+ If a core group reaches 16, two groups of 8 will be formed (keep families
+ together).
+ If a mantle group reaches 80, the group will divide, having half of the
+ core groups forming a new church, and the other half starting a new church.
+ In all cases, one must see the transition as a new starting, and not a
+ departing from the center group.
+ If a mantle crust group reaches 880, they group is split into two group
+ once again.
+ If facilities can no longer house the Global group, multiple global groups
+ will be started.
+ It is assumed that a crust group will all attend the same global group
+ (if they go).
+\end_layout
+
+\begin_layout Standard
+These are guidelines, the numbers are less important.
+ What is important is multiplication of believers, while avoiding a group
+ that no longer can minister to its members.
+ There is no provision for charismatic leaders who desire to have a large
+ small group, they must divide, and train new leaders to be put in place.
+ The church is 
+\series bold
+never
+\series default
+ a one man show, unless that man be Christ dying on the Cross.
+\end_layout
+
+\begin_layout Subsection
+Teaching
+\end_layout
+
+\begin_layout Standard
+Depending on the differing gifts enabled, so must the gifts be used.
+ If there be more then one teacher, then they must teach.
+ In Crust Groups, there must be a rotation of speakers, teaching topically
+ or energetically as needed.
+ (1 Corinthians 14:26-33, Ephesians 4:1-16, Ecclesiastes 4:13-16, Proverbs
+ 24:6).
+ In the crust groups, teachers teach from their seat (located as part of
+ the great circle), and while he speaks, others listen.
+\end_layout
+
+\begin_layout Subsection
+Bible Reading
+\end_layout
+
+\begin_layout Standard
+At the start of each and any meeting, a passage of Scripture is read aloud.
+ Core Groups systematically work their way through different books of the
+ Bible, so that no portion of Scripture is neglected
 \end_layout
 
 \begin_layout Section
