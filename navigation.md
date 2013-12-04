@@ -7,6 +7,7 @@
 [Home Constitution](home.md)
 [Curriculum](curriculum.md)
 [Model of Humanity](humanity.md)
-[Floor Plans](floorplans.md)
+[Community Learning Facility](communitylearning.md)
+[Community Living Facility](communityliving.md)
 
 [gimmick:theme](cerulean)
