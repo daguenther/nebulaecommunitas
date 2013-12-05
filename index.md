@@ -18,7 +18,7 @@ The Core is where the knowledge is held. The different implementations (Alpha, B
 
 February 6, 2013 started an idea in my mind, the connecting between Church, Home, and School. Over the following months that idea grew.
 
-This was first carrried out by a wiki I created to work though these ideas. As the idea continued to grow in my mind, I realized that a propetary online wiki was not sufficent for the further development of this project. On October 21, 2013, it was decided I would move this project to Github, to further the devleopment there.
+This was first carrried out by a wiki I created to work though these ideas. As the idea continued to grow in my mind, I realized that a proprietary online wiki was not sufficent for the further development of this project. On October 21, 2013, it was decided I would move this project to Github, to further the devleopment there.
 
 ## Status
 
@@ -30,7 +30,7 @@ NebCom is not operational:
   * Almost no work has been done on the practical implementations
 
 ## Liscense
-All content is under a GPL v3 liscense
+All content is under a GPL v3 liscense
 
 ## Contact
 My Name is David Guenther, and you can find more about here
