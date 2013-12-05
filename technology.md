@@ -7,9 +7,9 @@
     * All services must be local
 * Central Server
     * provides applications for basic uses
-        * documents (markdown and WYSIWYG)
+        * documents (markdown and lyx)
         * presentations (implress.js and markdown)
-        * Spreadsheets (
+        * Spreadsheets (Libreoffice Calc)
 * Dvorak as typing system
 * Markdown, Latex, and Pandoc as format
     * for papers
