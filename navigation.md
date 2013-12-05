@@ -10,6 +10,7 @@
 [Curriculum](curriculum.md)
 [Model of Humanity](humanity.md)
 [Floor Plans]()
+
    * [Community Learning Facility](communitylearning.md)
    * [Community Living Facility](communityliving.md)
 
