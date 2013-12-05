@@ -9,7 +9,7 @@
     * The centre location is built accoustically well, so instruments are used, but no electricity is used. This place is used for group teaching, and singing
     * The different church's meet in the 12 rooms surrounding the centre location. It is here that teaching is done, sharing and community can take place.
     * the dining room off to the side is where the breaking of bread happens (communion)
-    * Possible to have 24 church's present
+    * Possible to have 12 church's present
     
 
 ##School
