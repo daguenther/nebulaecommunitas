@@ -6,19 +6,11 @@
    * [Church Constitution](ChurchConstitution.md)
    * [School Constitution](schoolconstitution.md)
    * [Home Constitution](home.md)
+
 [Curriculum](curriculum.md)
 [Model of Humanity](humanity.md)
 [Floor Plans]()
-  * [Community Learning Facility](communitylearning.md)
-  * [Community Living Facility](communityliving.md)
+   * [Community Learning Facility](communitylearning.md)
+   * [Community Living Facility](communityliving.md)
 
 [gimmick:theme](cerulean)
-
-[Docs]()
-	
-	  * [Quickstart](quickstart.md)
-	  * [Layout](layout.md)
-	  * [FAQ](faq.md)
-	  - - - -
-	  * # Advanced
-	  * [Customizing](customizing.md)
