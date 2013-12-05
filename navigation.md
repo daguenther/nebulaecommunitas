@@ -18,4 +18,6 @@
    * [Community Learning Facility](communitylearning.md)
    * [Community Living Facility](communityliving.md)
 
+[Computer Tech](technology.md)
+
 [gimmick:theme](cerulean)
