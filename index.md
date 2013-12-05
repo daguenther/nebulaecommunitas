@@ -7,8 +7,8 @@ Nebulae Communitas is the framework for “cloud communities”, people connecte
 The three main focuses for this connection are the following:
 
 * Church
-* Home
 * School
+* Home
 
 These documents should contain all the necessary information to set up a church, school, or home. I am pleased to consider this project open-source, which means that all this knowledge is free to use.
 
@@ -33,7 +33,7 @@ NebCom is not operational:
 All content is under a GPL v3 liscense
 
 ## Contact
-My Name is David Guenther, and you can find more about here
+My Name is David Guenther, and you can find more about me here
 <http://about.me/daguenther>
 
 # To Contribute
