@@ -7,8 +7,9 @@
    * [School Constitution](schoolconstitution.md)
    * [Home Constitution](home.md)
 
-[Curriculum](curriculum.md)
-[Model of Humanity](humanity.md)
+[Core Beliefs](Beliefs.md)
+[Knowledge Dev](curriculum.md)
+[Social Dev](humanity.md)
 [Floor Plans]()
 
    * [Community Learning Facility](communitylearning.md)
