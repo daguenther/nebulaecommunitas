@@ -1,0 +1,1385 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="1 - community home.svg"
+   inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/1 - community home.png"
+   inkscape:export-xdpi="79.300003"
+   inkscape:export-ydpi="79.300003">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path3847"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path4101"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.063534331"
+     inkscape:cx="15478.126"
+     inkscape:cy="-1305.2949"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showborder="false"
+     inkscape:showpageshadow="false"
+     inkscape:snap-page="false"
+     inkscape:snap-grids="false"
+     inkscape:snap-to-guides="true"
+     inkscape:snap-center="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3004"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="100px"
+       spacingy="100px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.2677)">
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.98999999000000005;fill:none;stroke:#000000;stroke-width:1.75653899;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3780-9"
+       sodipodi:cx="-1500"
+       sodipodi:cy="744.09448"
+       sodipodi:rx="700"
+       sodipodi:ry="700"
+       d="m -800,744.09448 c 0,386.59932 -313.4007,700.00002 -700,700.00002 -386.5993,0 -700,-313.4007 -700,-700.00002 0,-386.59932 313.4007,-699.999998 700,-699.999998 386.5993,0 700,313.400678 700,699.999998 z"
+       transform="matrix(2.8465067,0,0,2.8465067,4269.76,-1065.7077)"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 1.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <path
+       sodipodi:type="star"
+       style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3800"
+       sodipodi:sides="6"
+       sodipodi:cx="0"
+       sodipodi:cy="744.09448"
+       sodipodi:r1="2024.8457"
+       sodipodi:r2="0"
+       sodipodi:arg1="-1.0471976"
+       sodipodi:arg2="-0.52359882"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 1012.4228,-1009.4734 0,744.09448 2024.8457,744.09438 0,744.09448 1012.4229,2497.6623 0,744.09448 -1012.4228,2497.6623 0,744.09448 -2024.8457,744.09458 0,744.09448 -1012.4229,-1009.4733 0,744.09448 z"
+       transform="matrix(0.98689871,0,0,0.98689871,6.632023,318.0163)"
+       inkscape:transform-center-x="499.5794"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 1.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <text
+       xml:space="preserve"
+       style="font-size:602.75231934px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sawasdee;-inkscape-font-specification:Sawasdee"
+       x="-2000"
+       y="3552.3621"
+       id="text3805"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 1.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20"><tspan
+         sodipodi:role="line"
+         id="tspan3807"
+         x="-2000"
+         y="3552.3621">Floor 1</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.98999999;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.50028372;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3780"
+       sodipodi:cx="-1500"
+       sodipodi:cy="744.09448"
+       sodipodi:rx="700"
+       sodipodi:ry="700"
+       d="m -800,744.09448 a 700,700 0 1 1 -1400,0 700,700 0 1 1 1400,0 z"
+       transform="matrix(0.9923148,0,0,0.9923148,1488.4723,313.98621)"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 1.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <text
+       xml:space="preserve"
+       style="font-size:209.90922546px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sawasdee;-inkscape-font-specification:Sawasdee"
+       x="2350.2576"
+       y="852.30804"
+       id="text3848"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 1.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20"><tspan
+         sodipodi:role="line"
+         id="tspan3850"
+         x="2350.2576"
+         y="852.30804">@ - Rooms</tspan><tspan
+         sodipodi:role="line"
+         x="2350.2576"
+         y="1114.6946"
+         id="tspan3056">    - Bathrooms</tspan><tspan
+         sodipodi:role="line"
+         x="2350.2576"
+         y="1377.0811"
+         id="tspan3852"># - Living Area</tspan><tspan
+         sodipodi:role="line"
+         x="2350.2576"
+         y="1639.4675"
+         id="tspan3854">   - Eating</tspan><tspan
+         sodipodi:role="line"
+         x="2350.2576"
+         y="1901.8541"
+         id="tspan4149" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:173.45324707px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sawasdee;-inkscape-font-specification:Sawasdee"
+       x="-1072.7732"
+       y="545.21173"
+       id="text3856-9-8"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 1.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20"><tspan
+         sodipodi:role="line"
+         id="tspan3858-5-01"
+         x="-1072.7732"
+         y="545.21173">#</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:153.97627258px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sawasdee;-inkscape-font-specification:Sawasdee"
+       x="-349.12097"
+       y="1097.207"
+       id="text3947"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 1.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20"><tspan
+         sodipodi:role="line"
+         id="tspan3949"
+         x="-349.12097"
+         y="1097.207">Courtyard</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:1.75653899;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3780-9-3"
+       sodipodi:cx="-1500"
+       sodipodi:cy="744.09448"
+       sodipodi:rx="700"
+       sodipodi:ry="700"
+       d="m -800,744.09448 c 0,386.59932 -313.4007,700.00002 -700,700.00002 -386.5993,0 -700,-313.4007 -700,-700.00002 0,-386.59932 313.4007,-699.999998 700,-699.999998 386.5993,0 700,313.400678 700,699.999998 z"
+       transform="matrix(2.8465067,0,0,2.8465067,10632.694,-1065.5608)"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 2.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <path
+       sodipodi:type="star"
+       style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3800-5"
+       sodipodi:sides="12"
+       sodipodi:cx="0"
+       sodipodi:cy="744.09448"
+       sodipodi:r1="2024.8457"
+       sodipodi:r2="0"
+       sodipodi:arg1="-1.0471976"
+       sodipodi:arg2="-0.78539821"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 1012.4228,-1009.4734 0,744.09448 1753.5678,-268.32845 0,744.09448 2024.8457,744.09438 0,744.09448 1753.5679,1756.5172 0,744.09448 1012.4229,2497.6623 0,744.09448 9.881936e-5,2768.9402 0,744.09448 -1012.4228,2497.6623 0,744.09448 -1753.5678,1756.5174 0,744.09448 -2024.8457,744.09458 0,744.09448 -1753.5679,-268.32828 0,744.09448 -1012.4229,-1009.4733 0,744.09448 -9.881936e-5,-1280.7512 0,744.09448 z"
+       transform="matrix(0.98689871,0,0,0.98689871,6369.5665,318.16333)"
+       inkscape:transform-center-x="499.5794"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 2.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <text
+       xml:space="preserve"
+       style="font-size:602.75231934px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sawasdee;-inkscape-font-specification:Sawasdee"
+       x="4362.9346"
+       y="3552.5088"
+       id="text3805-4"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 2.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20"><tspan
+         sodipodi:role="line"
+         id="tspan3807-0"
+         x="4362.9346"
+         y="3552.5088">Floor 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:173.45324707px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sawasdee;-inkscape-font-specification:Sawasdee"
+       x="4713.6665"
+       y="156.80844"
+       id="text3856-9-5-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3858-5-6-3"
+         x="4713.6665"
+         y="156.80844" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:182.43226624px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sawasdee;-inkscape-font-specification:Sawasdee"
+       x="-432.83685"
+       y="-1034.5392"
+       id="text3060"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 1.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20"><tspan
+         sodipodi:role="line"
+         id="tspan3062"
+         x="-432.83685"
+         y="-1034.5392">40 Meters</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:9.19999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Lend)"
+       d="m -448.57637,-1081.7578 -1629.04053,0"
+       id="path3068"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 1.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:9.19999999999999929;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Lend)"
+       d="m 432.83685,-1396.4805 1558.21265,0"
+       id="path3070"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 1.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <path
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -657.12504,824.13912 -1318.18496,0"
+       id="path4483"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 1.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <path
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M -531.20886,291.58323 -1290.6408,-786.57402"
+       id="path4485"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 1.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <path
+       style="opacity:0.98999999;color:#000000;fill:none;stroke:#000000;stroke-width:4.93449354;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -657.12504,102.70896 200.6789,-165.264976"
+       id="path4497"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 1.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <path
+       style="opacity:0.98999999;color:#000000;fill:none;stroke:#000000;stroke-width:4.93449354;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -812.45516,-101.74924 225.37284,-183.63713"
+       id="path4499"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 1.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <path
+       style="opacity:0.98999999;color:#000000;fill:none;stroke:#000000;stroke-width:4.93449354;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M -982.18038,-346.59874 -734.5485,-535.80063"
+       id="path4501"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 1.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <path
+       style="opacity:0.98999999;color:#000000;fill:none;stroke:#000000;stroke-width:4.93449354;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -998.87466,513.15689 0,228.15521"
+       id="path4505"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 1.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <path
+       style="opacity:0.98999999;color:#000000;fill:none;stroke:#000000;stroke-width:4.93449354;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -1316.2175,515.87142 0.1514,225.44068"
+       id="path4507"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 1.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <path
+       style="opacity:0.98999999;color:#000000;fill:none;stroke:#000000;stroke-width:4.93449354;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -1563.6979,513.15689 0,225.37283"
+       id="path4509"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 1.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <text
+       xml:space="preserve"
+       style="font-size:173.45324707px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sawasdee;-inkscape-font-specification:Sawasdee"
+       x="-916.3512"
+       y="988.84851"
+       id="text3856-54-2"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 1.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20"><tspan
+         sodipodi:role="line"
+         id="tspan3858-15-4"
+         x="-916.3512"
+         y="988.84851">@</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:173.45324707px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sawasdee;-inkscape-font-specification:Sawasdee"
+       x="-1235.4768"
+       y="997.8501"
+       id="text3856-54-9"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 1.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20"><tspan
+         sodipodi:role="line"
+         id="tspan3858-15-2"
+         x="-1235.4768"
+         y="997.8501">@</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:173.45324707px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sawasdee;-inkscape-font-specification:Sawasdee"
+       x="-1526.2577"
+       y="980.97876"
+       id="text3856-54-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 1.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20"><tspan
+         sodipodi:role="line"
+         id="tspan3858-15-3"
+         x="-1526.2577"
+         y="980.97876">@</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:173.45324707px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sawasdee;-inkscape-font-specification:Sawasdee"
+       x="-1843.1794"
+       y="1003.5753"
+       id="text3856-54-28"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 1.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20"><tspan
+         sodipodi:role="line"
+         id="tspan3858-15-21"
+         x="-1843.1794"
+         y="1003.5753">@</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:173.45324707px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sawasdee;-inkscape-font-specification:Sawasdee"
+       x="-574.0166"
+       y="465.5094"
+       id="text3856-54-72"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 1.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20"><tspan
+         sodipodi:role="line"
+         id="tspan3858-15-32"
+         x="-574.0166"
+         y="465.5094">@</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:173.45324707px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sawasdee;-inkscape-font-specification:Sawasdee"
+       x="-715.6723"
+       y="264.83051"
+       id="text3856-54-16"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 1.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20"><tspan
+         sodipodi:role="line"
+         id="tspan3858-15-5"
+         x="-715.6723"
+         y="264.83051">@</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:173.45324707px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sawasdee;-inkscape-font-specification:Sawasdee"
+       x="-910.9248"
+       y="60.772305"
+       id="text3856-54-13"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 1.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20"><tspan
+         sodipodi:role="line"
+         id="tspan3858-15-6"
+         x="-910.9248"
+         y="60.772305">@</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:173.45324707px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sawasdee;-inkscape-font-specification:Sawasdee"
+       x="-1078.9156"
+       y="-305.89099"
+       id="text3856-54-0"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 1.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20"><tspan
+         sodipodi:role="line"
+         id="tspan3858-15-25"
+         x="-1078.9156"
+         y="-305.89099">@</tspan></text>
+    <path
+       style="opacity:0.98999999;color:#000000;fill:none;stroke:#000000;stroke-width:4.93449354;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -1640.8452,511.93653 605.9716,-936.50155"
+       id="path4670"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 1.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <path
+       style="opacity:0.98999999;color:#000000;fill:none;stroke:#000000;stroke-width:4.93449354;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M -1463.7755,248.29954 -1857.2636,39.750877"
+       id="path4672"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 1.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <path
+       style="opacity:0.98999999;color:#000000;fill:none;stroke:#000000;stroke-width:4.93449354;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -1196.2037,-176.66755 -377.7485,-299.05092"
+       id="path4674"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 1.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <text
+       xml:space="preserve"
+       style="font-size:173.45324707px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sawasdee;-inkscape-font-specification:Sawasdee"
+       x="-1353.1229"
+       y="-112.91801"
+       id="text3856-54-0-8"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 1.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20"><tspan
+         sodipodi:role="line"
+         id="tspan3858-15-25-8"
+         x="-1353.1229"
+         y="-112.91801">@</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:173.45324707px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sawasdee;-inkscape-font-specification:Sawasdee"
+       x="-1632.4995"
+       y="260.89563"
+       id="text3856-54-0-0"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 1.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20"><tspan
+         sodipodi:role="line"
+         id="tspan3858-15-25-0"
+         x="-1632.4995"
+         y="260.89563">@</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:173.45324707px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sawasdee;-inkscape-font-specification:Sawasdee"
+       x="-1821.3737"
+       y="650.44879"
+       id="text3856-54-0-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 1.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20"><tspan
+         sodipodi:role="line"
+         id="tspan3858-15-25-4"
+         x="-1821.3737"
+         y="650.44879">@</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.98999999;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.50028372;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3780-4"
+       sodipodi:cx="-1500"
+       sodipodi:cy="744.09448"
+       sodipodi:rx="700"
+       sodipodi:ry="700"
+       d="m -800,744.09448 a 700,700 0 1 1 -1400,0 700,700 0 1 1 1400,0 z"
+       transform="matrix(0.9923148,0,0,0.9923148,7843.4296,325.11574)"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 2.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <path
+       style="opacity:0.98999999;color:#000000;fill:none;stroke:#000000;stroke-width:4.93449354;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 5681.6213,574.36926 -1302.1541,0"
+       id="path4733"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 2.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <path
+       style="opacity:0.98999999;color:#000000;fill:none;stroke:#000000;stroke-width:4.93449354;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 4783.0621,882.63696 5023.1039,281.95631"
+       id="path4735"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 2.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <path
+       style="opacity:0.98999999;color:#000000;fill:none;stroke:#000000;stroke-width:4.93449354;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 4906.796,271.90883 4462.8705,140.90527"
+       id="path4737"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 2.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <path
+       style="opacity:0.98999999;color:#000000;fill:none;stroke:#000000;stroke-width:4.93449354;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 4819.0833,574.36926 0,169.72522"
+       id="path4739"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 2.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <path
+       style="opacity:0.98999999;color:#000000;fill:none;stroke:#000000;stroke-width:4.93449354;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 5105.6685,885.41934 0,164.16046"
+       id="path4741"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 2.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <path
+       style="opacity:0.98999999;color:#000000;fill:none;stroke:#000000;stroke-width:4.93449354;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 5378.3418,888.20172 0,164.16048"
+       id="path4743"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 2.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <text
+       xml:space="preserve"
+       style="font-size:110.88754272px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sawasdee;-inkscape-font-specification:Sawasdee"
+       x="4525.1631"
+       y="701.92944"
+       id="text3856-5-6-8-6"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 2.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20"><tspan
+         sodipodi:role="line"
+         id="tspan3858-3-2-9-8"
+         x="4525.1631"
+         y="701.92944">@</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:110.88754272px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sawasdee;-inkscape-font-specification:Sawasdee"
+       x="4655.0142"
+       y="387.13901"
+       id="text3856-5-6-8-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 2.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20"><tspan
+         sodipodi:role="line"
+         id="tspan3858-3-2-9-9"
+         x="4655.0142"
+         y="387.13901">@</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:110.88754272px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sawasdee;-inkscape-font-specification:Sawasdee"
+       x="4470.0747"
+       y="1000.9803"
+       id="text3856-5-6-8-3"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 2.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20"><tspan
+         sodipodi:role="line"
+         id="tspan3858-3-2-9-2"
+         x="4470.0747"
+         y="1000.9803">@</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:110.88754272px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sawasdee;-inkscape-font-specification:Sawasdee"
+       x="4906.8467"
+       y="1004.9153"
+       id="text3856-5-6-8-8"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 2.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20"><tspan
+         sodipodi:role="line"
+         id="tspan3858-3-2-9-48"
+         x="4906.8467"
+         y="1004.9153">@</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:110.88754272px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sawasdee;-inkscape-font-specification:Sawasdee"
+       x="5174.4185"
+       y="1008.8502"
+       id="text3856-5-6-8-5"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 2.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20"><tspan
+         sodipodi:role="line"
+         id="tspan3858-3-2-9-7"
+         x="5174.4185"
+         y="1008.8502">@</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:110.88754272px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sawasdee;-inkscape-font-specification:Sawasdee"
+       x="5489.209"
+       y="1012.785"
+       id="text3856-5-6-8-34"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 2.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20"><tspan
+         sodipodi:role="line"
+         id="tspan3858-3-2-9-0"
+         x="5489.209"
+         y="1012.785">@</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:173.45324707px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sawasdee;-inkscape-font-specification:Sawasdee"
+       x="5152.4712"
+       y="-566.5918"
+       id="text3856-9-8-9-6"
+       sodipodi:linespacing="125%"
+       transform="scale(1,-1)"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 2.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20"><tspan
+         sodipodi:role="line"
+         id="tspan3858-5-01-5-9"
+         x="5152.4712"
+         y="-566.5918">#</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:1.75653899;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3780-9-3-6"
+       sodipodi:cx="-1500"
+       sodipodi:cy="744.09448"
+       sodipodi:rx="700"
+       sodipodi:ry="700"
+       d="m -800,744.09448 a 700,700 0 1 1 -1400,0 700,700 0 1 1 1400,0 z"
+       transform="matrix(2.8465067,0,0,2.8465067,15816.023,-1050.414)"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 3.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <path
+       sodipodi:type="star"
+       style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3800-5-5"
+       sodipodi:sides="16"
+       sodipodi:cx="0"
+       sodipodi:cy="744.09448"
+       sodipodi:r1="2024.8457"
+       sodipodi:r2="0"
+       sodipodi:arg1="-1.0471976"
+       sodipodi:arg2="-0.85084806"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 1012.4228,-1009.4734 0,744.09448 1606.418,-488.55356 0,744.09448 1955.8507,220.02576 0,744.09448 2007.5229,1008.3898 0,744.09448 1753.5679,1756.5172 0,744.09448 1232.648,2350.5125 0,744.09448 524.06873,2699.9452 0,744.09448 -264.2953,2751.6174 0,744.09448 -1012.4228,2497.6623 0,744.09448 -1606.418,1976.7425 0,744.09448 -1955.8507,1268.1632 0,744.09448 -2007.5229,479.79918 0,744.09448 -1753.5679,-268.32828 0,744.09448 -1232.648,-862.32356 0,744.09448 -524.06873,-1211.7563 0,744.09448 264.2953,-1263.4284 0,744.09448 z"
+       transform="matrix(0.97676505,-0.14106419,0.14106419,0.97676505,11451.061,350.2588)"
+       inkscape:transform-center-x="494.44931"
+       inkscape:transform-center-y="71.40831"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 3.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <text
+       xml:space="preserve"
+       style="font-size:602.75231934px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sawasdee;-inkscape-font-specification:Sawasdee"
+       x="9546.2627"
+       y="3567.6558"
+       id="text3805-4-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 3.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20"><tspan
+         sodipodi:role="line"
+         id="tspan3807-0-0"
+         x="9546.2627"
+         y="3567.6558">Floor 3</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.98999999;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.50028372;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3780-4-6"
+       sodipodi:cx="-1500"
+       sodipodi:cy="744.09448"
+       sodipodi:rx="700"
+       sodipodi:ry="700"
+       d="m -800,744.09448 a 700,700 0 1 1 -1400,0 700,700 0 1 1 1400,0 z"
+       transform="matrix(0.9923148,0,0,0.9923148,13026.759,340.26249)"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 3.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:1.75653899;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3780-9-3-6-8"
+       sodipodi:cx="-1500"
+       sodipodi:cy="744.09448"
+       sodipodi:rx="700"
+       sodipodi:ry="700"
+       d="m -800,744.09448 a 700,700 0 1 1 -1400,0 700,700 0 1 1 1400,0 z"
+       transform="matrix(2.8465067,0,0,2.8465067,20779.79,-1072.6731)"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/roof.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <text
+       xml:space="preserve"
+       style="font-size:602.75231934px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sawasdee;-inkscape-font-specification:Sawasdee"
+       x="14510.03"
+       y="3545.3967"
+       id="text3805-4-7-5"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/roof.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20"><tspan
+         sodipodi:role="line"
+         id="tspan3807-0-0-6"
+         x="14510.03"
+         y="3545.3967">Roof</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.98999999;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.50028372;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3780-4-6-5"
+       sodipodi:cx="-1500"
+       sodipodi:cy="744.09448"
+       sodipodi:rx="700"
+       sodipodi:ry="700"
+       d="m -800,744.09448 a 700,700 0 1 1 -1400,0 700,700 0 1 1 1400,0 z"
+       transform="matrix(0.9923148,0,0,0.9923148,17990.526,318.0035)"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/roof.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <text
+       xml:space="preserve"
+       style="font-size:153.97627258px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sawasdee;-inkscape-font-specification:Sawasdee"
+       x="15843.717"
+       y="-72.793549"
+       id="text3947-7-7-3"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/roof.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20"><tspan
+         sodipodi:role="line"
+         id="tspan3949-1-0-3"
+         x="15843.717"
+         y="-72.793549">GeoDesic Biodome</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:1.75653899;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3780-9-4"
+       sodipodi:cx="-1500"
+       sodipodi:cy="744.09448"
+       sodipodi:rx="700"
+       sodipodi:ry="700"
+       d="m -800,744.09448 a 700,700 0 1 1 -1400,0 700,700 0 1 1 1400,0 z"
+       transform="matrix(2.9417831,0,0,2.9417831,4412.6746,-1136.6023)"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 1.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:1.75653899;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3780-9-4-8"
+       sodipodi:cx="-1500"
+       sodipodi:cy="744.09448"
+       sodipodi:rx="700"
+       sodipodi:ry="700"
+       d="m -800,744.09448 a 700,700 0 1 1 -1400,0 700,700 0 1 1 1400,0 z"
+       transform="matrix(2.9417831,0,0,2.9417831,10784.66,-1128.7326)" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:1.75653899;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3780-9-4-5"
+       sodipodi:cx="-1500"
+       sodipodi:cy="744.09448"
+       sodipodi:rx="700"
+       sodipodi:ry="700"
+       d="m -800,744.09448 a 700,700 0 1 1 -1400,0 700,700 0 1 1 1400,0 z"
+       transform="matrix(2.9417831,0,0,2.9417831,15962.963,-1128.6024)"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 3.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <text
+       xml:space="preserve"
+       style="font-size:67.35810852px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sawasdee;-inkscape-font-specification:Sawasdee"
+       x="-896.15845"
+       y="-1213.886"
+       id="text5114"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.7491082,-0.66244766,0.66244766,0.7491082,0,0)"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 1.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20"><tspan
+         sodipodi:role="line"
+         id="tspan5116"
+         x="-896.15845"
+         y="-1213.886">stairs + landing</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.98999999000000005;fill:none;fill-opacity:1;stroke:#000000;stroke-width:3.50028372000000010;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3780-1"
+       sodipodi:cx="-1500"
+       sodipodi:cy="744.09448"
+       sodipodi:rx="700"
+       sodipodi:ry="700"
+       d="m -800,744.09448 a 700,700 0 1 1 -1400,0 700,700 0 1 1 1400,0 z"
+       transform="matrix(0.91698139,0,0,0.91698139,1381.0369,364.47663)"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 1.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <text
+       xml:space="preserve"
+       style="font-size:67.35810852px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sawasdee;-inkscape-font-specification:Sawasdee"
+       x="-213.78949"
+       y="489.52768"
+       id="text5114-6"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.99995642,0.0093363,-0.0093363,0.99995642,0,0)"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 1.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20"><tspan
+         sodipodi:role="line"
+         id="tspan5116-1"
+         x="-213.78949"
+         y="489.52768">stairs + landing</tspan></text>
+    <g
+       id="g5240"
+       transform="translate(1034.8736,188.87426)"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 1.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20">
+      <rect
+         y="134.20248"
+         x="-3272.5168"
+         height="79.246017"
+         width="217.89998"
+         id="rect5159"
+         style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:4.12571096;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="matrix(1.0040285,0,0,0.67812785,9.950852,307.91942)"
+         d="m -3224.7791,-256.86697 c 0,8.83583 -7.1629,15.99868 -15.9987,15.99868 -8.8359,0 -15.9987,-7.16285 -15.9987,-15.99868 0,-8.83584 7.1628,-15.99869 15.9987,-15.99869 8.8358,0 15.9987,7.16285 15.9987,15.99869 z"
+         sodipodi:ry="15.998689"
+         sodipodi:rx="15.998689"
+         sodipodi:cy="-256.86697"
+         sodipodi:cx="-3240.7778"
+         id="path5161"
+         style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(1.0040285,0,0,0.67812785,176.86777,305.56091)"
+         d="m -3224.7791,-256.86697 c 0,8.83583 -7.1629,15.99868 -15.9987,15.99868 -8.8359,0 -15.9987,-7.16285 -15.9987,-15.99868 0,-8.83584 7.1628,-15.99869 15.9987,-15.99869 8.8358,0 15.9987,7.16285 15.9987,15.99869 z"
+         sodipodi:ry="15.998689"
+         sodipodi:rx="15.998689"
+         sodipodi:cy="-256.86697"
+         sodipodi:cx="-3240.7778"
+         id="path5161-4"
+         style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(1.0040285,0,0,0.67812785,175.47098,387.63714)"
+         d="m -3224.7791,-256.86697 c 0,8.83583 -7.1629,15.99868 -15.9987,15.99868 -8.8359,0 -15.9987,-7.16285 -15.9987,-15.99868 0,-8.83584 7.1628,-15.99869 15.9987,-15.99869 8.8358,0 15.9987,7.16285 15.9987,15.99869 z"
+         sodipodi:ry="15.998689"
+         sodipodi:rx="15.998689"
+         sodipodi:cy="-256.86697"
+         sodipodi:cx="-3240.7778"
+         id="path5161-2"
+         style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(1.0040285,0,0,0.67812785,6.4588096,390.46735)"
+         d="m -3224.7791,-256.86697 c 0,8.83583 -7.1629,15.99868 -15.9987,15.99868 -8.8359,0 -15.9987,-7.16285 -15.9987,-15.99868 0,-8.83584 7.1628,-15.99869 15.9987,-15.99869 8.8358,0 15.9987,7.16285 15.9987,15.99869 z"
+         sodipodi:ry="15.998689"
+         sodipodi:rx="15.998689"
+         sodipodi:cy="-256.86697"
+         sodipodi:cx="-3240.7778"
+         id="path5161-8"
+         style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       transform="translate(944.29423,776.2298)"
+       id="g5240-7"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 1.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20">
+      <rect
+         y="134.20248"
+         x="-3272.5168"
+         height="79.246017"
+         width="217.89998"
+         id="rect5159-3"
+         style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:4.12571096;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="matrix(1.0040285,0,0,0.67812785,9.950852,307.91942)"
+         d="m -3224.7791,-256.86697 c 0,8.83583 -7.1629,15.99868 -15.9987,15.99868 -8.8359,0 -15.9987,-7.16285 -15.9987,-15.99868 0,-8.83584 7.1628,-15.99869 15.9987,-15.99869 8.8358,0 15.9987,7.16285 15.9987,15.99869 z"
+         sodipodi:ry="15.998689"
+         sodipodi:rx="15.998689"
+         sodipodi:cy="-256.86697"
+         sodipodi:cx="-3240.7778"
+         id="path5161-3"
+         style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(1.0040285,0,0,0.67812785,176.86777,305.56091)"
+         d="m -3224.7791,-256.86697 c 0,8.83583 -7.1629,15.99868 -15.9987,15.99868 -8.8359,0 -15.9987,-7.16285 -15.9987,-15.99868 0,-8.83584 7.1628,-15.99869 15.9987,-15.99869 8.8358,0 15.9987,7.16285 15.9987,15.99869 z"
+         sodipodi:ry="15.998689"
+         sodipodi:rx="15.998689"
+         sodipodi:cy="-256.86697"
+         sodipodi:cx="-3240.7778"
+         id="path5161-4-5"
+         style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(1.0040285,0,0,0.67812785,175.47098,387.63714)"
+         d="m -3224.7791,-256.86697 c 0,8.83583 -7.1629,15.99868 -15.9987,15.99868 -8.8359,0 -15.9987,-7.16285 -15.9987,-15.99868 0,-8.83584 7.1628,-15.99869 15.9987,-15.99869 8.8358,0 15.9987,7.16285 15.9987,15.99869 z"
+         sodipodi:ry="15.998689"
+         sodipodi:rx="15.998689"
+         sodipodi:cy="-256.86697"
+         sodipodi:cx="-3240.7778"
+         id="path5161-2-7"
+         style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(1.0040285,0,0,0.67812785,6.4588096,390.46735)"
+         d="m -3224.7791,-256.86697 c 0,8.83583 -7.1629,15.99868 -15.9987,15.99868 -8.8359,0 -15.9987,-7.16285 -15.9987,-15.99868 0,-8.83584 7.1628,-15.99869 15.9987,-15.99869 8.8358,0 15.9987,7.16285 15.9987,15.99869 z"
+         sodipodi:ry="15.998689"
+         sodipodi:rx="15.998689"
+         sodipodi:cy="-256.86697"
+         sodipodi:cx="-3240.7778"
+         id="path5161-8-1"
+         style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       transform="translate(967.90355,465.37426)"
+       id="g5240-8"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 1.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20">
+      <rect
+         y="134.20248"
+         x="-3272.5168"
+         height="79.246017"
+         width="217.89998"
+         id="rect5159-8"
+         style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:4.12571096;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="matrix(1.0040285,0,0,0.67812785,9.950852,307.91942)"
+         d="m -3224.7791,-256.86697 c 0,8.83583 -7.1629,15.99868 -15.9987,15.99868 -8.8359,0 -15.9987,-7.16285 -15.9987,-15.99868 0,-8.83584 7.1628,-15.99869 15.9987,-15.99869 8.8358,0 15.9987,7.16285 15.9987,15.99869 z"
+         sodipodi:ry="15.998689"
+         sodipodi:rx="15.998689"
+         sodipodi:cy="-256.86697"
+         sodipodi:cx="-3240.7778"
+         id="path5161-6"
+         style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(1.0040285,0,0,0.67812785,176.86777,305.56091)"
+         d="m -3224.7791,-256.86697 c 0,8.83583 -7.1629,15.99868 -15.9987,15.99868 -8.8359,0 -15.9987,-7.16285 -15.9987,-15.99868 0,-8.83584 7.1628,-15.99869 15.9987,-15.99869 8.8358,0 15.9987,7.16285 15.9987,15.99869 z"
+         sodipodi:ry="15.998689"
+         sodipodi:rx="15.998689"
+         sodipodi:cy="-256.86697"
+         sodipodi:cx="-3240.7778"
+         id="path5161-4-8"
+         style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(1.0040285,0,0,0.67812785,175.47098,387.63714)"
+         d="m -3224.7791,-256.86697 c 0,8.83583 -7.1629,15.99868 -15.9987,15.99868 -8.8359,0 -15.9987,-7.16285 -15.9987,-15.99868 0,-8.83584 7.1628,-15.99869 15.9987,-15.99869 8.8358,0 15.9987,7.16285 15.9987,15.99869 z"
+         sodipodi:ry="15.998689"
+         sodipodi:rx="15.998689"
+         sodipodi:cy="-256.86697"
+         sodipodi:cx="-3240.7778"
+         id="path5161-2-0"
+         style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(1.0040285,0,0,0.67812785,6.4588096,390.46735)"
+         d="m -3224.7791,-256.86697 c 0,8.83583 -7.1629,15.99868 -15.9987,15.99868 -8.8359,0 -15.9987,-7.16285 -15.9987,-15.99868 0,-8.83584 7.1628,-15.99869 15.9987,-15.99869 8.8358,0 15.9987,7.16285 15.9987,15.99869 z"
+         sodipodi:ry="15.998689"
+         sodipodi:rx="15.998689"
+         sodipodi:cy="-256.86697"
+         sodipodi:cx="-3240.7778"
+         id="path5161-8-2"
+         style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       transform="translate(928.55475,614.89971)"
+       id="g5240-75"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 1.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20">
+      <rect
+         y="134.20248"
+         x="-3272.5168"
+         height="79.246017"
+         width="217.89998"
+         id="rect5159-4"
+         style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:4.12571096;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="matrix(1.0040285,0,0,0.67812785,9.950852,307.91942)"
+         d="m -3224.7791,-256.86697 c 0,8.83583 -7.1629,15.99868 -15.9987,15.99868 -8.8359,0 -15.9987,-7.16285 -15.9987,-15.99868 0,-8.83584 7.1628,-15.99869 15.9987,-15.99869 8.8358,0 15.9987,7.16285 15.9987,15.99869 z"
+         sodipodi:ry="15.998689"
+         sodipodi:rx="15.998689"
+         sodipodi:cy="-256.86697"
+         sodipodi:cx="-3240.7778"
+         id="path5161-36"
+         style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(1.0040285,0,0,0.67812785,176.86777,305.56091)"
+         d="m -3224.7791,-256.86697 c 0,8.83583 -7.1629,15.99868 -15.9987,15.99868 -8.8359,0 -15.9987,-7.16285 -15.9987,-15.99868 0,-8.83584 7.1628,-15.99869 15.9987,-15.99869 8.8358,0 15.9987,7.16285 15.9987,15.99869 z"
+         sodipodi:ry="15.998689"
+         sodipodi:rx="15.998689"
+         sodipodi:cy="-256.86697"
+         sodipodi:cx="-3240.7778"
+         id="path5161-4-87"
+         style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(1.0040285,0,0,0.67812785,175.47098,387.63714)"
+         d="m -3224.7791,-256.86697 c 0,8.83583 -7.1629,15.99868 -15.9987,15.99868 -8.8359,0 -15.9987,-7.16285 -15.9987,-15.99868 0,-8.83584 7.1628,-15.99869 15.9987,-15.99869 8.8358,0 15.9987,7.16285 15.9987,15.99869 z"
+         sodipodi:ry="15.998689"
+         sodipodi:rx="15.998689"
+         sodipodi:cy="-256.86697"
+         sodipodi:cx="-3240.7778"
+         id="path5161-2-74"
+         style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(1.0040285,0,0,0.67812785,6.4588096,390.46735)"
+         d="m -3224.7791,-256.86697 c 0,8.83583 -7.1629,15.99868 -15.9987,15.99868 -8.8359,0 -15.9987,-7.16285 -15.9987,-15.99868 0,-8.83584 7.1628,-15.99869 15.9987,-15.99869 8.8358,0 15.9987,7.16285 15.9987,15.99869 z"
+         sodipodi:ry="15.998689"
+         sodipodi:rx="15.998689"
+         sodipodi:cy="-256.86697"
+         sodipodi:cx="-3240.7778"
+         id="path5161-8-5"
+         style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       transform="translate(1003.3175,323.71856)"
+       id="g5240-2"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 1.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20">
+      <rect
+         y="134.20248"
+         x="-3272.5168"
+         height="79.246017"
+         width="217.89998"
+         id="rect5159-6"
+         style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:4.12571096;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="matrix(1.0040285,0,0,0.67812785,9.950852,307.91942)"
+         d="m -3224.7791,-256.86697 c 0,8.83583 -7.1629,15.99868 -15.9987,15.99868 -8.8359,0 -15.9987,-7.16285 -15.9987,-15.99868 0,-8.83584 7.1628,-15.99869 15.9987,-15.99869 8.8358,0 15.9987,7.16285 15.9987,15.99869 z"
+         sodipodi:ry="15.998689"
+         sodipodi:rx="15.998689"
+         sodipodi:cy="-256.86697"
+         sodipodi:cx="-3240.7778"
+         id="path5161-20"
+         style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(1.0040285,0,0,0.67812785,176.86777,305.56091)"
+         d="m -3224.7791,-256.86697 c 0,8.83583 -7.1629,15.99868 -15.9987,15.99868 -8.8359,0 -15.9987,-7.16285 -15.9987,-15.99868 0,-8.83584 7.1628,-15.99869 15.9987,-15.99869 8.8358,0 15.9987,7.16285 15.9987,15.99869 z"
+         sodipodi:ry="15.998689"
+         sodipodi:rx="15.998689"
+         sodipodi:cy="-256.86697"
+         sodipodi:cx="-3240.7778"
+         id="path5161-4-52"
+         style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(1.0040285,0,0,0.67812785,175.47098,387.63714)"
+         d="m -3224.7791,-256.86697 c 0,8.83583 -7.1629,15.99868 -15.9987,15.99868 -8.8359,0 -15.9987,-7.16285 -15.9987,-15.99868 0,-8.83584 7.1628,-15.99869 15.9987,-15.99869 8.8358,0 15.9987,7.16285 15.9987,15.99869 z"
+         sodipodi:ry="15.998689"
+         sodipodi:rx="15.998689"
+         sodipodi:cy="-256.86697"
+         sodipodi:cx="-3240.7778"
+         id="path5161-2-746"
+         style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(1.0040285,0,0,0.67812785,6.4588096,390.46735)"
+         d="m -3224.7791,-256.86697 c 0,8.83583 -7.1629,15.99868 -15.9987,15.99868 -8.8359,0 -15.9987,-7.16285 -15.9987,-15.99868 0,-8.83584 7.1628,-15.99869 15.9987,-15.99869 8.8358,0 15.9987,7.16285 15.9987,15.99869 z"
+         sodipodi:ry="15.998689"
+         sodipodi:rx="15.998689"
+         sodipodi:cy="-256.86697"
+         sodipodi:cx="-3240.7778"
+         id="path5161-8-59"
+         style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:125.81678772px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sawasdee;-inkscape-font-specification:Sawasdee"
+       x="-2627.5217"
+       y="699.24561"
+       id="text5331"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 1.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20"><tspan
+         sodipodi:role="line"
+         id="tspan5333"
+         x="-2627.5217"
+         y="699.24561">Cars</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:3.50028372;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3780-1-8"
+       sodipodi:cx="-1500"
+       sodipodi:cy="744.09448"
+       sodipodi:rx="700"
+       sodipodi:ry="700"
+       d="m -800,744.09448 a 700,700 0 1 1 -1400,0 700,700 0 1 1 1400,0 z"
+       transform="matrix(0.91698139,0,0,0.91698139,7738.1738,370.04139)"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 2.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:3.50028372;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3780-1-3"
+       sodipodi:cx="-1500"
+       sodipodi:cy="744.09448"
+       sodipodi:rx="700"
+       sodipodi:ry="700"
+       d="m -800,744.09448 a 700,700 0 1 1 -1400,0 700,700 0 1 1 1400,0 z"
+       transform="matrix(0.91698139,0,0,0.91698139,12920.411,389.71579)"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 3.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:3.50028372;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3780-1-6"
+       sodipodi:cx="-1500"
+       sodipodi:cy="744.09448"
+       sodipodi:rx="700"
+       sodipodi:ry="700"
+       d="m -800,744.09448 a 700,700 0 1 1 -1400,0 700,700 0 1 1 1400,0 z"
+       transform="matrix(0.91698139,0,0,0.91698139,17870.491,366.10651)"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/roof.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:3.50028372;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3780-1-3-2"
+       sodipodi:cx="-1500"
+       sodipodi:cy="744.09448"
+       sodipodi:rx="700"
+       sodipodi:ry="700"
+       d="m -800,744.09448 a 700,700 0 1 1 -1400,0 700,700 0 1 1 1400,0 z"
+       transform="matrix(0.91698139,0,0,0.91698139,12920.787,388.04139)"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 3.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <path
+       style="opacity:0.98999999;color:#000000;fill:none;stroke:#000000;stroke-width:4.93449354;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 9902.9417,1094.6092 10131.165,512.24688"
+       id="path5441"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 3.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <path
+       style="opacity:0.98999999;color:#000000;fill:none;stroke:#000000;stroke-width:4.93449354;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 9588.0838,385.16738 427.7932,114.62696"
+       id="path5443"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 3.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <path
+       style="opacity:0.98999999;color:#000000;fill:none;stroke:#000000;stroke-width:4.93449354;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 9974.8347,616.10497 882.0143,0"
+       id="path5445"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 3.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <path
+       style="opacity:0.98999999;color:#000000;fill:none;stroke:#000000;stroke-width:4.93449354;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 10197.425,618.88735 0,169.72522"
+       id="path5447"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 3.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <path
+       style="opacity:0.98999999;color:#000000;fill:none;stroke:#000000;stroke-width:4.93449354;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 10500.705,618.88735 0,161.37808"
+       id="path5449"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 3.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20" />
+    <text
+       xml:space="preserve"
+       style="font-size:173.45324707px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sawasdee;-inkscape-font-specification:Sawasdee"
+       x="10316.359"
+       y="823.43628"
+       id="text3856-9-8-9-6-3-6"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 3.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20"><tspan
+         sodipodi:role="line"
+         id="tspan3858-5-01-5-9-7-1"
+         x="10316.359"
+         y="823.43628">#</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:110.88754272px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sawasdee;-inkscape-font-specification:Sawasdee"
+       x="9677.7295"
+       y="592.76135"
+       id="text3856-5-6-8-6-2-9"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 3.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20"><tspan
+         sodipodi:role="line"
+         id="tspan3858-3-2-9-8-6-2"
+         x="9677.7295"
+         y="592.76135">@</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:110.88754272px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sawasdee;-inkscape-font-specification:Sawasdee"
+       x="9661.0352"
+       y="843.17566"
+       id="text3856-5-6-8-6-2-6"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 3.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20"><tspan
+         sodipodi:role="line"
+         id="tspan3858-3-2-9-8-6-1"
+         x="9661.0352"
+         y="843.17566">@</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:110.88754272px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sawasdee;-inkscape-font-specification:Sawasdee"
+       x="10011.615"
+       y="1024.0304"
+       id="text3856-5-6-8-6-2-99"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 3.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20"><tspan
+         sodipodi:role="line"
+         id="tspan3858-3-2-9-8-6-4"
+         x="10011.615"
+         y="1024.0304">@</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:110.88754272px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sawasdee;-inkscape-font-specification:Sawasdee"
+       x="10300.983"
+       y="1018.4656"
+       id="text3856-5-6-8-6-2-4"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 3.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20"><tspan
+         sodipodi:role="line"
+         id="tspan3858-3-2-9-8-6-3"
+         x="10300.983"
+         y="1018.4656">@</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:110.88754272px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sawasdee;-inkscape-font-specification:Sawasdee"
+       x="10568.092"
+       y="1029.5951"
+       id="text3856-5-6-8-6-2-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/NEBCOM resources/GitHub/Core/Floor Plans/Community Living/floor 3.png"
+       inkscape:export-xdpi="20"
+       inkscape:export-ydpi="20"><tspan
+         sodipodi:role="line"
+         id="tspan3858-3-2-9-8-6-0"
+         x="10568.092"
+         y="1029.5951">@</tspan></text>
+  </g>
+</svg>
