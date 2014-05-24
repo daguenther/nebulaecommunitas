@@ -1,0 +1,160 @@
+\contentsline {chapter}{\numberline {1}Foundation}{5}{chapter.1}
+\contentsline {section}{\numberline {1.1}Council Constitution}{5}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Purpose}{5}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Layout}{5}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.1.3}Procedures}{6}{subsection.1.1.3}
+\contentsline {section}{\numberline {1.2}Beliefs}{6}{section.1.2}
+\contentsline {subsubsection}{God}{6}{section*.2}
+\contentsline {subsubsection}{Knowledge Sphere}{7}{section*.3}
+\contentsline {subsubsection}{Social Sphere}{7}{section*.4}
+\contentsline {subsection}{\numberline {1.2.1}Policies}{7}{subsection.1.2.1}
+\contentsline {subsubsection}{Avoid Abortion, Adopt Always}{7}{section*.5}
+\contentsline {subsubsection}{Zero Prior Knowledge:}{7}{section*.6}
+\contentsline {subsubsection}{Face2Face Policy:}{8}{section*.7}
+\contentsline {subsubsection}{Open Hearts Policy:}{8}{section*.8}
+\contentsline {subsubsection}{Profit}{8}{section*.9}
+\contentsline {subsubsection}{Homosexuality}{8}{section*.10}
+\contentsline {subsection}{\numberline {1.2.2}Women in Leadership}{8}{subsection.1.2.2}
+\contentsline {section}{\numberline {1.3}Social}{8}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Tiers}{9}{subsection.1.3.1}
+\contentsline {subsubsection}{Tier 1}{9}{section*.11}
+\contentsline {subsubsection}{Tier 2}{9}{section*.12}
+\contentsline {subsubsection}{Tier 3}{9}{section*.13}
+\contentsline {subsubsection}{Diagram}{9}{section*.14}
+\contentsline {section}{\numberline {1.4}Technology}{10}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}}{10}{subsection.1.4.1}
+\contentsline {subsubsection}{Storage and Servers}{10}{section*.15}
+\contentsline {subsubsection}{Formats:}{10}{section*.16}
+\contentsline {subsubsection}{Simplicity}{11}{section*.17}
+\contentsline {subsubsection}{Choice}{11}{section*.18}
+\contentsline {subsubsection}{Software to use}{11}{section*.19}
+\contentsline {chapter}{\numberline {2}Church}{13}{chapter.2}
+\contentsline {section}{\numberline {2.1}Church Constitution}{13}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Purpose}{13}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Relationship}{14}{subsection.2.1.2}
+\contentsline {subsubsection}{From Him:}{14}{section*.20}
+\contentsline {subsubsection}{Our Response}{14}{section*.21}
+\contentsline {subsection}{\numberline {2.1.3}Roles}{14}{subsection.2.1.3}
+\contentsline {subsubsection}{Apostles}{14}{section*.22}
+\contentsline {subsubsection}{Prophets}{14}{section*.23}
+\contentsline {subsubsection}{Evangelists}{14}{section*.24}
+\contentsline {subsubsection}{Elders}{14}{section*.25}
+\contentsline {subsubsection}{Teachers}{15}{section*.26}
+\contentsline {subsubsection}{Deacons}{15}{section*.27}
+\contentsline {subsubsection}{Priests}{15}{section*.28}
+\contentsline {subsection}{\numberline {2.1.4}Meetings}{15}{subsection.2.1.4}
+\contentsline {subsubsection}{Core Groups}{15}{section*.29}
+\contentsline {subsubsection}{Mantle Groups}{15}{section*.30}
+\contentsline {subsubsection}{Crust Group}{15}{section*.31}
+\contentsline {subsubsection}{Global Groups}{15}{section*.32}
+\contentsline {subsection}{\numberline {2.1.5}Serving}{15}{subsection.2.1.5}
+\contentsline {subsubsection}{Ministries}{15}{section*.33}
+\contentsline {subsubsection}{Missions}{16}{section*.34}
+\contentsline {subsection}{\numberline {2.1.6}Procedures}{16}{subsection.2.1.6}
+\contentsline {subsubsection}{Called to Ministry, Missions}{16}{section*.35}
+\contentsline {subsubsection}{Updates}{16}{section*.36}
+\contentsline {subsubsection}{Stepping down}{16}{section*.37}
+\contentsline {subsubsection}{Growth}{16}{section*.38}
+\contentsline {subsubsection}{Teaching}{16}{section*.39}
+\contentsline {subsubsection}{Bible Reading}{17}{section*.40}
+\contentsline {subsection}{\numberline {2.1.7}Definitions}{17}{subsection.2.1.7}
+\contentsline {subsubsection}{Trinity}{17}{section*.41}
+\contentsline {subsubsection}{God}{17}{section*.42}
+\contentsline {subsubsection}{Jesus}{17}{section*.43}
+\contentsline {subsubsection}{Holy Spirit}{17}{section*.44}
+\contentsline {subsubsection}{Bible}{17}{section*.45}
+\contentsline {subsubsection}{Sin}{17}{section*.46}
+\contentsline {subsubsection}{Church}{17}{section*.47}
+\contentsline {section}{\numberline {2.2}Education}{17}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Theology}{18}{subsection.2.2.1}
+\contentsline {chapter}{\numberline {3}School}{19}{chapter.3}
+\contentsline {section}{\numberline {3.1}School Constitution}{19}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Purpose}{19}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Organization}{19}{subsection.3.1.2}
+\contentsline {subsubsection}{Teachers}{19}{section*.48}
+\contentsline {subsubsection}{Students}{20}{section*.49}
+\contentsline {subsection}{\numberline {3.1.3}Development}{20}{subsection.3.1.3}
+\contentsline {subsubsection}{Primary Development}{20}{section*.50}
+\contentsline {subsubsection}{Secondary Development}{20}{section*.51}
+\contentsline {subsubsection}{Tertiary Development}{20}{section*.52}
+\contentsline {subsection}{\numberline {3.1.4}Functions}{20}{subsection.3.1.4}
+\contentsline {subsubsection}{Group meetings}{20}{section*.53}
+\contentsline {subsubsection}{Homework}{20}{section*.54}
+\contentsline {subsubsection}{Calendar}{20}{section*.55}
+\contentsline {subsubsection}{School day}{21}{section*.56}
+\contentsline {subsection}{\numberline {3.1.5}Layout}{21}{subsection.3.1.5}
+\contentsline {subsubsection}{Group Meeting Area}{21}{section*.57}
+\contentsline {subsubsection}{Group Learning Areas}{21}{section*.58}
+\contentsline {subsubsection}{Individual learning Areas}{21}{section*.59}
+\contentsline {subsubsection}{Specialized areas}{22}{section*.60}
+\contentsline {paragraph}{Kitchen}{22}{section*.61}
+\contentsline {paragraph}{Creative Labs}{22}{section*.62}
+\contentsline {paragraph}{Science Labs}{22}{section*.63}
+\contentsline {paragraph}{Math Labs}{22}{section*.64}
+\contentsline {paragraph}{Garden (Biodome)}{22}{section*.65}
+\contentsline {paragraph}{Admin}{22}{section*.66}
+\contentsline {paragraph}{Library}{22}{section*.67}
+\contentsline {section}{\numberline {3.2}Curriculum}{22}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Core}{22}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Lower and Upper Mantle}{23}{subsection.3.2.2}
+\contentsline {subsubsection}{Primary (6 - 12)}{23}{section*.68}
+\contentsline {subsubsection}{Secondary(12 - 18)}{23}{section*.69}
+\contentsline {paragraph}{Logic - Math \$ Science}{23}{section*.70}
+\contentsline {paragraph}{Creativity - Language \$ Communication}{23}{section*.71}
+\contentsline {subsubsection}{Tertiary(18 - 22)}{23}{section*.72}
+\contentsline {paragraph}{Engineering}{24}{section*.73}
+\contentsline {paragraph}{Scientist}{24}{section*.74}
+\contentsline {paragraph}{Theology (working with the local Church)}{24}{section*.75}
+\contentsline {paragraph}{Linguistics}{24}{section*.76}
+\contentsline {subsubsection}{Others}{24}{section*.77}
+\contentsline {subsection}{\numberline {3.2.3}Classes}{25}{subsection.3.2.3}
+\contentsline {subsubsection}{Tier 1 classes}{25}{section*.78}
+\contentsline {subsubsection}{Tier 2 Classes}{25}{section*.79}
+\contentsline {subsubsection}{Tier 3 Classes}{25}{section*.80}
+\contentsline {subsection}{\numberline {3.2.4}Levels}{25}{subsection.3.2.4}
+\contentsline {subsubsection}{Math\textbackslash Science (64 levels)}{25}{section*.81}
+\contentsline {subsubsection}{Writing\textbackslash Communication (64 levels)}{26}{section*.82}
+\contentsline {subsection}{\numberline {3.2.5}Map}{27}{subsection.3.2.5}
+\contentsline {section}{\numberline {3.3}Floor Plans}{27}{section.3.3}
+\contentsline {chapter}{\numberline {4}Home}{29}{chapter.4}
+\contentsline {section}{\numberline {4.1}Home Constitution}{29}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Purpose}{29}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Roles}{29}{subsection.4.1.2}
+\contentsline {subsubsection}{Mothers}{29}{section*.83}
+\contentsline {subsubsection}{Fathers}{30}{section*.84}
+\contentsline {subsubsection}{Younger Children (\textgreater {}=12)}{30}{section*.85}
+\contentsline {subsubsection}{Older Children (\textless {}12)}{30}{section*.86}
+\contentsline {subsection}{\numberline {4.1.3}Layout}{30}{subsection.4.1.3}
+\contentsline {subsubsection}{Co-Ed Family}{30}{section*.87}
+\contentsline {subsubsection}{Single Gender Family}{30}{section*.88}
+\contentsline {subsubsection}{Mentorship Family}{30}{section*.89}
+\contentsline {subsection}{\numberline {4.1.4}Functions}{31}{subsection.4.1.4}
+\contentsline {subsubsection}{Marriage}{31}{section*.90}
+\contentsline {subsubsection}{Family}{31}{section*.91}
+\contentsline {subsubsection}{Friends}{31}{section*.92}
+\contentsline {subsubsection}{Physical Needs}{31}{section*.93}
+\contentsline {subsection}{\numberline {4.1.5}Integration}{31}{subsection.4.1.5}
+\contentsline {subsubsection}{Church}{31}{section*.94}
+\contentsline {subsubsection}{School}{31}{section*.95}
+\contentsline {section}{\numberline {4.2}Dating}{32}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Purpose}{32}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Procedure}{32}{subsection.4.2.2}
+\contentsline {subsubsection}{Option 1}{32}{section*.96}
+\contentsline {subsubsection}{Option 2}{32}{section*.97}
+\contentsline {subsubsection}{Option 3}{32}{section*.98}
+\contentsline {subsubsection}{Codes of Conduct}{32}{section*.99}
+\contentsline {section}{\numberline {4.3}Wedding}{32}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Definition}{32}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Process}{33}{subsection.4.3.2}
+\contentsline {subsubsection}{Part 1: Engagement}{33}{section*.100}
+\contentsline {subsubsection}{Part 2: Coming}{33}{section*.101}
+\contentsline {subsubsection}{Part 3: Party}{33}{section*.102}
+\contentsline {subsection}{\numberline {4.3.3}Remarks:}{33}{subsection.4.3.3}
+\contentsline {section}{\numberline {4.4}Marriage}{33}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Purpose}{33}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Foundation}{34}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}Theory}{34}{subsection.4.4.3}
+\contentsline {subsection}{\numberline {4.4.4}Practice}{34}{subsection.4.4.4}
+\contentsline {section}{\numberline {4.5}Education}{35}{section.4.5}
+\contentsline {subsection}{\numberline {4.5.1}Health \$ Safety}{35}{subsection.4.5.1}
+\contentsline {section}{\numberline {4.6}Floor Plans}{35}{section.4.6}
