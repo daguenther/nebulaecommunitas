@@ -1,27 +1,38 @@
-\documentclass[10pt,a4paper]{book}
+\documentclass[a4paper,oneside]{memoir}
+\setlrmarginsandblock{3cm}{2.5cm}{*}
+\setulmarginsandblock{2.5cm}{2.5cm}{*}
+\checkandfixthelayout
 \usepackage[utf8]{inputenc}
 \usepackage{amsmath}
 \usepackage{hyperref}
 \usepackage{amsfonts}
 \usepackage{amssymb}
 \usepackage{graphicx}
-\usepackage[a4paper]{geometry}
+%\usepackage[a4paper]{geometry}
 \usepackage{subfiles}
-\geometry{left=2cm}
-\geometry{right=2cm}
+%\geometry{left=2cm}
+%\geometry{right=2cm}
 \author{David Guenther}
+\tightlists
+\chapterstyle{tandh}
 \title{CSHFoundation}
 
 \begin{document}
 \maketitle
+\clearpage
+
+\begin{vplace}
 \centerline{\includegraphics[scale=0.5]{6-logo.png}}
 
 \begin{Huge}
 $$\iiint_{life}^{death} person \,\, dh \, ds \, dc$$ \newline
 \end{Huge}
-\begin{Large}
+\centerline{\begin{Large}
 To my God, who is the greatest engineer.\footnote{The triple integral from life to death of a person indicates that the person is build built up by these three groups}
-\end{Large}
+\end{Large}}
+\end{vplace}
+
+\clearpage
 
 \tableofcontents
 \vspace*{\fill}
@@ -33,10 +44,5 @@ To my God, who is the greatest engineer.\footnote{The triple integral from life 
 \subfile{school.tex}
 
 \subfile{home.tex}
-
-
-
-
-
 
 \end{document}
