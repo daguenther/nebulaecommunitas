@@ -1,0 +1,2028 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="3543.3069"
+   height="3543.3069"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="8-community centre floor 1.svg">
+  <defs
+     id="defs4">
+    <clipPath
+       id="clip44">
+      <path
+         inkscape:connector-curvature="0"
+         id="path486"
+         d="m 0,0 0,608 1290,0 0,-608 z" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.080000001"
+     inkscape:cx="-467.3163"
+     inkscape:cy="1159.1551"
+     inkscape:document-units="cm"
+     inkscape:current-layer="layer2"
+     showgrid="true"
+     showborder="false"
+     units="cm"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     gridtolerance="10"
+     inkscape:snap-to-guides="false"
+     inkscape:snap-grids="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3260"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="false"
+       units="cm"
+       spacingx="1cm"
+       spacingy="1cm"
+       dotted="false"
+       color="#0000ff"
+       opacity="0.04705882"
+       empcolor="#0000ff"
+       empopacity="0.16078431" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,2490.8571)"
+     sodipodi:insensitive="true">
+    <g
+       id="g3262"
+       transform="matrix(12.448411,0,0,12.448411,-14578.194,-23752.994)"
+       style="opacity:0.3">
+      <g
+         transform="matrix(5.1519114,0,0,5.1519114,-1242.4459,881.88889)"
+         id="g3130">
+        <g
+           style="stroke-width:0.26367831;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+           id="g8"
+           transform="matrix(0.7585,0,0,0.7585,-0.02616653,-0.36950587)">
+          <clipPath
+             id="clip1">
+            <path
+               inkscape:connector-curvature="0"
+               id="path11"
+               d="m 0,0 0,608 1290,0 0,-608 z" />
+          </clipPath>
+          <g
+             id="g13"
+             clip-path="url(#clip1)"
+             style="stroke-width:0.26367831;stroke-miterlimit:4;stroke-dasharray:none">
+            <g
+               style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="g15">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path17"
+                 d="m 0,0 1290,0 0,608 L 0,608 0,0 z" />
+            </g>
+            <!-- drawing style -->
+          </g>
+          <!-- clip1 -->
+        </g>
+        <g
+           style="stroke-width:0.2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+           id="misc"
+           transform="translate(-0.02616653,-0.31399829)" />
+        <g
+           style="stroke-width:0.26367831;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+           transform="matrix(0.7585,0,0,0.7585,-0.00766401,-0.4620185)"
+           id="g488"
+           clip-path="url(#clip44)">
+          <!-- drawing style -->
+        </g>
+        <g
+           style="stroke-width:0.26367831;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+           transform="matrix(0.7585,0,0,0.7585,-0.00766401,-0.4620185)"
+           id="g175">
+          <clipPath
+             id="clip16">
+            <path
+               d="m 0,0 0,608 1290,0 0,-608 z"
+               id="path178"
+               inkscape:connector-curvature="0" />
+          </clipPath>
+          <g
+             style="stroke-width:0.26367831;stroke-miterlimit:4;stroke-dasharray:none"
+             clip-path="url(#clip16)"
+             id="g180">
+            <g
+               id="g182"
+               style="fill:none;stroke:#000000;stroke-width:0.26367831;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+              <path
+                 style="stroke-width:0.26367831;stroke-miterlimit:4;stroke-dasharray:none"
+                 d="m 751.85,207.81 c 0,84.18 -68.24,152.42 -152.42,152.42 -84.17,0 -152.41,-68.24 -152.41,-152.42 0,-84.18 68.24,-152.419 152.41,-152.419 84.18,0 152.42,68.239 152.42,152.419 z"
+                 id="path184"
+                 inkscape:connector-curvature="0" />
+            </g>
+            <!-- drawing style -->
+          </g>
+          <!-- clip16 -->
+        </g>
+        <g
+           style="stroke-width:0.26367831;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+           transform="matrix(0.7585,0,0,0.7585,-0.00766401,-0.4620185)"
+           id="g230">
+          <clipPath
+             id="clip21">
+            <path
+               d="m 0,0 0,608 1290,0 0,-608 z"
+               id="path233"
+               inkscape:connector-curvature="0" />
+          </clipPath>
+          <g
+             style="stroke-width:0.26367831;stroke-miterlimit:4;stroke-dasharray:none"
+             clip-path="url(#clip21)"
+             id="g235">
+            <g
+               id="g237"
+               style="fill:none;stroke:#000000;stroke-width:0.26367831;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+              <path
+                 style="stroke-width:0.26367831;stroke-miterlimit:4;stroke-dasharray:none"
+                 d="M 78.417,-5 1148.8,613"
+                 id="path239"
+                 inkscape:connector-curvature="0" />
+            </g>
+            <!-- drawing style -->
+          </g>
+          <!-- clip21 -->
+        </g>
+        <g
+           style="stroke-width:0.26367831;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+           transform="matrix(0.7585,0,0,0.7585,-0.00766401,-0.4620185)"
+           id="g21">
+          <clipPath
+             id="clip2">
+            <path
+               d="m 0,0 0,608 1290,0 0,-608 z"
+               id="path24"
+               inkscape:connector-curvature="0" />
+          </clipPath>
+          <g
+             style="stroke-width:0.26367831;stroke-miterlimit:4;stroke-dasharray:none"
+             clip-path="url(#clip2)"
+             id="g26">
+            <g
+               id="g28"
+               style="fill:none;stroke:#000000;stroke-width:0.26367831;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+              <path
+                 style="stroke-width:0.26367831;stroke-miterlimit:4;stroke-dasharray:none"
+                 d="m 603.17,297.97 c 0,4.13 -3.34,7.47 -7.47,7.47 -4.13,0 -7.48,-3.34 -7.48,-7.47 0,-4.13 3.35,-7.48 7.48,-7.48 4.13,0 7.47,3.35 7.47,7.48 z"
+                 id="path30"
+                 inkscape:connector-curvature="0" />
+            </g>
+            <!-- drawing style -->
+          </g>
+          <!-- clip2 -->
+        </g>
+        <g
+           style="stroke-width:0.26367831;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+           transform="matrix(0.7585,0,0,0.7585,-0.00766401,-0.4620185)"
+           id="g32">
+          <clipPath
+             id="clip3">
+            <path
+               d="m 0,0 0,608 1290,0 0,-608 z"
+               id="path35"
+               inkscape:connector-curvature="0" />
+          </clipPath>
+          <g
+             style="stroke-width:0.26367831;stroke-miterlimit:4;stroke-dasharray:none"
+             clip-path="url(#clip3)"
+             id="g37">
+            <g
+               id="g39"
+               style="fill:none;stroke:#000000;stroke-width:0.26367831;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+              <path
+                 style="stroke-width:0.26367831;stroke-miterlimit:4;stroke-dasharray:none"
+                 d="m 610.65,297.97 c 0,4.13 -3.35,7.47 -7.48,7.47 -4.13,0 -7.47,-3.34 -7.47,-7.47 0,-4.13 3.34,-7.48 7.47,-7.48 4.13,0 7.48,3.35 7.48,7.48 z"
+                 id="path41"
+                 inkscape:connector-curvature="0" />
+            </g>
+            <!-- drawing style -->
+          </g>
+          <!-- clip3 -->
+        </g>
+        <g
+           style="stroke-width:0.26367831;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+           transform="matrix(0.7585,0,0,0.7585,-0.00766401,-0.4620185)"
+           id="g43">
+          <clipPath
+             id="clip4">
+            <path
+               d="m 0,0 0,608 1290,0 0,-608 z"
+               id="path46"
+               inkscape:connector-curvature="0" />
+          </clipPath>
+          <g
+             style="stroke-width:0.26367831;stroke-miterlimit:4;stroke-dasharray:none"
+             clip-path="url(#clip4)"
+             id="g48">
+            <g
+               id="g50"
+               style="fill:none;stroke:#000000;stroke-width:0.26367831;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+              <path
+                 style="stroke-width:0.26367831;stroke-miterlimit:4;stroke-dasharray:none"
+                 d="m 606.91,291.49 c 0,4.13 -3.35,7.48 -7.48,7.48 -4.12,0 -7.47,-3.35 -7.47,-7.48 0,-4.12 3.35,-7.47 7.47,-7.47 4.13,0 7.48,3.35 7.48,7.47 z"
+                 id="path52"
+                 inkscape:connector-curvature="0" />
+            </g>
+            <!-- drawing style -->
+          </g>
+          <!-- clip4 -->
+        </g>
+        <g
+           style="stroke-width:0.26367831;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+           transform="matrix(0.7585,0,0,0.7585,-0.00766401,-0.4620185)"
+           id="g54">
+          <clipPath
+             id="clip5">
+            <path
+               d="m 0,0 0,608 1290,0 0,-608 z"
+               id="path57"
+               inkscape:connector-curvature="0" />
+          </clipPath>
+          <g
+             style="stroke-width:0.26367831;stroke-miterlimit:4;stroke-dasharray:none"
+             clip-path="url(#clip5)"
+             id="g59">
+            <g
+               id="g61"
+               style="fill:none;stroke:#000000;stroke-width:0.26367831;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+              <path
+                 style="stroke-width:0.26367831;stroke-miterlimit:4;stroke-dasharray:none"
+                 d="m 609.64,301.7 c 0,11.28 -9.14,20.42 -20.42,20.42 -11.27,0 -20.42,-9.14 -20.42,-20.42 0,-11.27 9.15,-20.42 20.42,-20.42 11.28,0 20.42,9.15 20.42,20.42 z"
+                 id="path63"
+                 inkscape:connector-curvature="0" />
+            </g>
+            <!-- drawing style -->
+          </g>
+          <!-- clip5 -->
+        </g>
+        <g
+           style="stroke-width:0.26367831;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+           transform="matrix(0.7585,0,0,0.7585,-0.00766401,-0.4620185)"
+           id="g65">
+          <clipPath
+             id="clip6">
+            <path
+               d="m 0,0 0,608 1290,0 0,-608 z"
+               id="path68"
+               inkscape:connector-curvature="0" />
+          </clipPath>
+          <g
+             style="stroke-width:0.26367831;stroke-miterlimit:4;stroke-dasharray:none"
+             clip-path="url(#clip6)"
+             id="g70">
+            <g
+               id="g72"
+               style="fill:none;stroke:#000000;stroke-width:0.26367831;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+              <path
+                 style="stroke-width:0.26367831;stroke-miterlimit:4;stroke-dasharray:none"
+                 d="m 619.85,284.02 c 0,11.28 -9.14,20.42 -20.42,20.42 -11.27,0 -20.42,-9.14 -20.42,-20.42 0,-11.28 9.15,-20.42 20.42,-20.42 11.28,0 20.42,9.14 20.42,20.42 z"
+                 id="path74"
+                 inkscape:connector-curvature="0" />
+            </g>
+            <!-- drawing style -->
+          </g>
+          <!-- clip6 -->
+        </g>
+        <g
+           style="stroke-width:0.26367831;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+           transform="matrix(0.7585,0,0,0.7585,-0.00766401,-0.4620185)"
+           id="g76">
+          <clipPath
+             id="clip7">
+            <path
+               d="m 0,0 0,608 1290,0 0,-608 z"
+               id="path79"
+               inkscape:connector-curvature="0" />
+          </clipPath>
+          <g
+             style="stroke-width:0.26367831;stroke-miterlimit:4;stroke-dasharray:none"
+             clip-path="url(#clip7)"
+             id="g81">
+            <g
+               id="g83"
+               style="fill:none;stroke:#000000;stroke-width:0.26367831;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+              <path
+                 style="stroke-width:0.26367831;stroke-miterlimit:4;stroke-dasharray:none"
+                 d="m 630.06,301.7 c 0,11.28 -9.14,20.42 -20.42,20.42 -11.27,0 -20.42,-9.14 -20.42,-20.42 0,-11.27 9.15,-20.42 20.42,-20.42 11.28,0 20.42,9.15 20.42,20.42 z"
+                 id="path85"
+                 inkscape:connector-curvature="0" />
+            </g>
+            <!-- drawing style -->
+          </g>
+          <!-- clip7 -->
+        </g>
+        <g
+           style="stroke-width:0.26367831;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+           transform="matrix(0.7585,0,0,0.7585,-0.00766401,-0.4620185)"
+           id="g87">
+          <clipPath
+             id="clip8">
+            <path
+               d="m 0,0 0,608 1290,0 0,-608 z"
+               id="path90"
+               inkscape:connector-curvature="0" />
+          </clipPath>
+          <g
+             style="stroke-width:0.26367831;stroke-miterlimit:4;stroke-dasharray:none"
+             clip-path="url(#clip8)"
+             id="g92">
+            <g
+               id="g94"
+               style="fill:none;stroke:#000000;stroke-width:0.26367831;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+              <path
+                 style="stroke-width:0.26367831;stroke-miterlimit:4;stroke-dasharray:none"
+                 d="m 631.64,295.81 c 0,17.79 -14.42,32.21 -32.21,32.21 -17.78,0 -32.21,-14.42 -32.21,-32.21 0,-17.79 14.43,-32.21 32.21,-32.21 17.79,0 32.21,14.42 32.21,32.21 z"
+                 id="path96"
+                 inkscape:connector-curvature="0" />
+            </g>
+            <!-- drawing style -->
+          </g>
+          <!-- clip8 -->
+        </g>
+        <g
+           style="stroke-width:0.26367831;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+           transform="matrix(0.7585,0,0,0.7585,-0.00766401,-0.4620185)"
+           id="g98">
+          <clipPath
+             id="clip9">
+            <path
+               d="m 0,0 0,608 1290,0 0,-608 z"
+               id="path101"
+               inkscape:connector-curvature="0" />
+          </clipPath>
+          <g
+             style="stroke-width:0.26367831;stroke-miterlimit:4;stroke-dasharray:none"
+             clip-path="url(#clip9)"
+             id="g103">
+            <g
+               id="g105"
+               style="fill:none;stroke:#000000;stroke-width:0.26367831;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+              <path
+                 style="stroke-width:0.26367831;stroke-miterlimit:4;stroke-dasharray:none"
+                 d="m 611.22,295.81 c 0,6.51 -5.27,11.79 -11.79,11.79 -6.51,0 -11.79,-5.28 -11.79,-11.79 0,-6.51 5.28,-11.79 11.79,-11.79 6.52,0 11.79,5.28 11.79,11.79 z"
+                 id="path107"
+                 inkscape:connector-curvature="0" />
+            </g>
+            <!-- drawing style -->
+          </g>
+          <!-- clip9 -->
+        </g>
+        <g
+           style="stroke-width:0.26367831;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+           transform="matrix(0.7585,0,0,0.7585,-0.00766401,-0.4620185)"
+           id="g109">
+          <clipPath
+             id="clip10">
+            <path
+               d="m 0,0 0,608 1290,0 0,-608 z"
+               id="path112"
+               inkscape:connector-curvature="0" />
+          </clipPath>
+          <g
+             style="stroke-width:0.26367831;stroke-miterlimit:4;stroke-dasharray:none"
+             clip-path="url(#clip10)"
+             id="g114">
+            <g
+               id="g116"
+               style="fill:none;stroke:#000000;stroke-width:0.26367831;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+              <path
+                 style="stroke-width:0.26367831;stroke-miterlimit:4;stroke-dasharray:none"
+                 d="m 603.75,295.81 c 0,2.38 -1.93,4.32 -4.32,4.32 -2.38,0 -4.31,-1.94 -4.31,-4.32 0,-2.38 1.93,-4.32 4.31,-4.32 2.39,0 4.32,1.94 4.32,4.32 z"
+                 id="path118"
+                 inkscape:connector-curvature="0" />
+            </g>
+            <!-- drawing style -->
+          </g>
+          <!-- clip10 -->
+        </g>
+        <g
+           style="stroke-width:0.26367831;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+           transform="matrix(0.7585,0,0,0.7585,-0.00766401,-0.4620185)"
+           id="g120">
+          <clipPath
+             id="clip11">
+            <path
+               d="m 0,0 0,608 1290,0 0,-608 z"
+               id="path123"
+               inkscape:connector-curvature="0" />
+          </clipPath>
+          <g
+             style="stroke-width:0.26367831;stroke-miterlimit:4;stroke-dasharray:none"
+             clip-path="url(#clip11)"
+             id="g125">
+            <g
+               id="g127"
+               style="fill:none;stroke:#000000;stroke-width:0.26367831;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+              <path
+                 style="stroke-width:0.26367831;stroke-miterlimit:4;stroke-dasharray:none"
+                 d="m 627.33,311.91 c 0,30.82 -24.98,55.79 -55.79,55.79 -30.81,0 -55.79,-24.97 -55.79,-55.79 0,-30.81 24.98,-55.78 55.79,-55.78 30.81,0 55.79,24.97 55.79,55.78 z"
+                 id="path129"
+                 inkscape:connector-curvature="0" />
+            </g>
+            <!-- drawing style -->
+          </g>
+          <!-- clip11 -->
+        </g>
+        <g
+           style="stroke-width:0.26367831;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+           transform="matrix(0.7585,0,0,0.7585,-0.00766401,-0.4620185)"
+           id="g131">
+          <clipPath
+             id="clip12">
+            <path
+               d="m 0,0 0,608 1290,0 0,-608 z"
+               id="path134"
+               inkscape:connector-curvature="0" />
+          </clipPath>
+          <g
+             style="stroke-width:0.26367831;stroke-miterlimit:4;stroke-dasharray:none"
+             clip-path="url(#clip12)"
+             id="g136">
+            <g
+               id="g138"
+               style="fill:none;stroke:#000000;stroke-width:0.26367831;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+              <path
+                 style="stroke-width:0.26367831;stroke-miterlimit:4;stroke-dasharray:none"
+                 d="m 655.22,263.6 c 0,30.81 -24.97,55.79 -55.79,55.79 -30.81,0 -55.78,-24.98 -55.78,-55.79 0,-30.81 24.97,-55.79 55.78,-55.79 30.82,0 55.79,24.98 55.79,55.79 z"
+                 id="path140"
+                 inkscape:connector-curvature="0" />
+            </g>
+            <!-- drawing style -->
+          </g>
+          <!-- clip12 -->
+        </g>
+        <g
+           style="stroke-width:0.26367831;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+           transform="matrix(0.7585,0,0,0.7585,-0.00766401,-0.4620185)"
+           id="g142">
+          <clipPath
+             id="clip13">
+            <path
+               d="m 0,0 0,608 1290,0 0,-608 z"
+               id="path145"
+               inkscape:connector-curvature="0" />
+          </clipPath>
+          <g
+             style="stroke-width:0.26367831;stroke-miterlimit:4;stroke-dasharray:none"
+             clip-path="url(#clip13)"
+             id="g147">
+            <g
+               id="g149"
+               style="fill:none;stroke:#000000;stroke-width:0.26367831;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+              <path
+                 style="stroke-width:0.26367831;stroke-miterlimit:4;stroke-dasharray:none"
+                 d="m 683.12,311.91 c 0,30.82 -24.98,55.79 -55.79,55.79 -30.81,0 -55.79,-24.97 -55.79,-55.79 0,-30.81 24.98,-55.78 55.79,-55.78 30.81,0 55.79,24.97 55.79,55.78 z"
+                 id="path151"
+                 inkscape:connector-curvature="0" />
+            </g>
+            <!-- drawing style -->
+          </g>
+          <!-- clip13 -->
+        </g>
+        <g
+           style="stroke-width:0.26367831;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+           transform="matrix(0.7585,0,0,0.7585,-0.00766401,-0.4620185)"
+           id="g153">
+          <clipPath
+             id="clip14">
+            <path
+               d="m 0,0 0,608 1290,0 0,-608 z"
+               id="path156"
+               inkscape:connector-curvature="0" />
+          </clipPath>
+          <g
+             style="stroke-width:0.26367831;stroke-miterlimit:4;stroke-dasharray:none"
+             clip-path="url(#clip14)"
+             id="g158">
+            <g
+               id="g160"
+               style="fill:none;stroke:#000000;stroke-width:0.26367831;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+              <path
+                 style="stroke-width:0.26367831;stroke-miterlimit:4;stroke-dasharray:none"
+                 d="m 687.43,295.81 c 0,48.6 -39.39,88 -88,88 -48.6,0 -87.99,-39.4 -87.99,-88 0,-48.6 39.39,-88 87.99,-88 48.61,0 88,39.4 88,88 z"
+                 id="path162"
+                 inkscape:connector-curvature="0" />
+            </g>
+            <!-- drawing style -->
+          </g>
+          <!-- clip14 -->
+        </g>
+        <g
+           style="stroke-width:0.26367831;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+           transform="matrix(0.7585,0,0,0.7585,-0.00766401,-0.4620185)"
+           id="g164">
+          <clipPath
+             id="clip15">
+            <path
+               d="m 0,0 0,608 1290,0 0,-608 z"
+               id="path167"
+               inkscape:connector-curvature="0" />
+          </clipPath>
+          <g
+             style="stroke-width:0.26367831;stroke-miterlimit:4;stroke-dasharray:none"
+             clip-path="url(#clip15)"
+             id="g169">
+            <g
+               id="g171"
+               style="fill:none;stroke:#000000;stroke-width:0.26367831;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+              <path
+                 style="stroke-width:0.26367831;stroke-miterlimit:4;stroke-dasharray:none"
+                 d="m 675.64,339.81 c 0,84.18 -68.24,152.42 -152.42,152.42 -84.17,0 -152.41,-68.24 -152.41,-152.42 0,-84.18 68.24,-152.42 152.41,-152.42 84.18,0 152.42,68.24 152.42,152.42 z"
+                 id="path173"
+                 inkscape:connector-curvature="0" />
+            </g>
+            <!-- drawing style -->
+          </g>
+          <!-- clip15 -->
+        </g>
+        <g
+           style="stroke-width:0.26367831;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+           transform="matrix(0.7585,0,0,0.7585,-0.00766401,-0.4620185)"
+           id="g186">
+          <clipPath
+             id="clip17">
+            <path
+               d="m 0,0 0,608 1290,0 0,-608 z"
+               id="path189"
+               inkscape:connector-curvature="0" />
+          </clipPath>
+          <g
+             style="stroke-width:0.26367831;stroke-miterlimit:4;stroke-dasharray:none"
+             clip-path="url(#clip17)"
+             id="g191">
+            <g
+               id="g193"
+               style="fill:none;stroke:#000000;stroke-width:0.26367831;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+              <path
+                 style="stroke-width:0.26367831;stroke-miterlimit:4;stroke-dasharray:none"
+                 d="m 828.06,339.81 c 0,84.18 -68.24,152.42 -152.42,152.42 -84.17,0 -152.42,-68.24 -152.42,-152.42 0,-84.18 68.25,-152.42 152.42,-152.42 84.18,0 152.42,68.24 152.42,152.42 z"
+                 id="path195"
+                 inkscape:connector-curvature="0" />
+            </g>
+            <!-- drawing style -->
+          </g>
+          <!-- clip17 -->
+        </g>
+        <g
+           style="stroke-width:0.26367831;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+           transform="matrix(0.7585,0,0,0.7585,-0.00766401,-0.4620185)"
+           id="g197">
+          <clipPath
+             id="clip18">
+            <path
+               d="m 0,0 0,608 1290,0 0,-608 z"
+               id="path200"
+               inkscape:connector-curvature="0" />
+          </clipPath>
+          <g
+             style="stroke-width:0.26367831;stroke-miterlimit:4;stroke-dasharray:none"
+             clip-path="url(#clip18)"
+             id="g202">
+            <g
+               id="g204"
+               style="fill:none;stroke:#000000;stroke-width:0.26367831;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+              <path
+                 style="stroke-width:0.26367831;stroke-miterlimit:4;stroke-dasharray:none"
+                 d="m 839.85,295.81 c 0,132.78 -107.64,240.42 -240.42,240.42 -132.77,0 -240.41,-107.64 -240.41,-240.42 0,-132.78 107.64,-240.419 240.41,-240.419 132.78,0 240.42,107.639 240.42,240.419 z"
+                 id="path206"
+                 inkscape:connector-curvature="0" />
+            </g>
+            <!-- drawing style -->
+          </g>
+          <!-- clip18 -->
+        </g>
+        <g
+           style="stroke-width:0.26367831;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+           transform="matrix(0.7585,0,0,0.7585,-0.00766401,-0.4620185)"
+           id="g208">
+          <clipPath
+             id="clip19">
+            <path
+               d="m 0,0 0,608 1290,0 0,-608 z"
+               id="path211"
+               inkscape:connector-curvature="0" />
+          </clipPath>
+          <g
+             style="stroke-width:0.26367831;stroke-miterlimit:4;stroke-dasharray:none"
+             clip-path="url(#clip19)"
+             id="g213">
+            <g
+               id="g215"
+               style="fill:none;stroke:#000000;stroke-width:0.26367831;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+              <path
+                 style="stroke-width:0.26367831;stroke-miterlimit:4;stroke-dasharray:none"
+                 d="m 599.43,613 0,-618"
+                 id="path217"
+                 inkscape:connector-curvature="0" />
+            </g>
+            <!-- drawing style -->
+          </g>
+          <!-- clip19 -->
+        </g>
+        <g
+           style="stroke-width:0.26367831;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+           transform="matrix(0.7585,0,0,0.7585,-0.00766401,-0.4620185)"
+           id="g219">
+          <clipPath
+             id="clip20">
+            <path
+               d="m 0,0 0,608 1290,0 0,-608 z"
+               id="path222"
+               inkscape:connector-curvature="0" />
+          </clipPath>
+          <g
+             style="stroke-width:0.26367831;stroke-miterlimit:4;stroke-dasharray:none"
+             clip-path="url(#clip20)"
+             id="g224">
+            <g
+               id="g226"
+               style="fill:none;stroke:#000000;stroke-width:0.26367831;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+              <path
+                 style="stroke-width:0.26367831;stroke-miterlimit:4;stroke-dasharray:none"
+                 d="M 50.045,613 1120.5,-5"
+                 id="path228"
+                 inkscape:connector-curvature="0" />
+            </g>
+            <!-- drawing style -->
+          </g>
+          <!-- clip20 -->
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer">
+    <path
+       transform="matrix(20.184434,0,0,20.184434,16994.085,-78172.788)"
+       sodipodi:type="arc"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.35109302999999997;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;fill-opacity:1"
+       id="path3394-6-5-7"
+       sodipodi:cx="-885.82678"
+       sodipodi:cy="4074.803"
+       sodipodi:rx="212.59842"
+       sodipodi:ry="212.59842"
+       d="m -673.22836,4074.803 a 212.59842,212.59842 0 1 1 -425.19684,0 212.59842,212.59842 0 1 1 425.19684,0 z"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:141.73228455000000281;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;opacity:0.6"
+       id="path5814"
+       sodipodi:cx="-885.82678"
+       sodipodi:cy="4110.2358"
+       sodipodi:rx="1842.5197"
+       sodipodi:ry="1842.5197"
+       d="m 956.69287,4110.2358 a 1842.5197,1842.5197 0 1 1 -3685.03927,0 1842.5197,1842.5197 0 1 1 3685.03927,0 z"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:141.73228345999999078;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;opacity:0.60082305"
+       id="path5812"
+       sodipodi:sides="6"
+       sodipodi:cx="-885.82678"
+       sodipodi:cy="4074.803"
+       sodipodi:r1="4300.3768"
+       sodipodi:r2="3.2524385e-05"
+       sodipodi:arg1="-0.52458692"
+       sodipodi:arg2="-1.2406884"
+       inkscape:flatsided="false"
+       inkscape:rounded="0.0018273848"
+       inkscape:randomized="0"
+       d="m 2836.2824,1920.9355 c 7.643,-1.8276 -3722.11694,2146.009 -3722.10917,2153.8674 0.008,7.8585 3720.95437,2140.8022 3726.35857,2146.5074 5.4042,5.7052 -3719.55682,-2150.4433 -3726.35855,-2146.5073 -6.80173,3.9359 6.48811,4292.842 4.24936,4300.3748 -2.23875,7.5328 2.56012,-4296.4523 -4.24937,-4300.3748 -6.80949,-3.9225 -3714.46624,2152.0399 -3722.10924,2153.8675 -7.6429,1.8276 3722.11697,-2146.0091 3722.10921,-2153.8675 -0.008,-7.8584 -3720.95431,-2140.8021 -3726.35851,-2146.5074 -5.4043,-5.7052 3719.55676,2150.4433 3726.35849,2146.5074 6.80172,-3.936 -6.48812,-4292.84207 -4.24936,-4300.37488 2.23875,-7.5328 -2.56012,4296.45238 4.24937,4300.37488 6.80949,3.9224 3714.4662,-2152.0399 3722.1092,-2153.8675 z"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(7.3287051,0,0,7.3287051,5606.1365,-25788.227)"
+       sodipodi:type="arc"
+       style="fill:#ffffff;stroke:#5ab4b9;stroke-width:9.66966752999999990;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;fill-opacity:1"
+       id="path3394-6-5"
+       sodipodi:cx="-885.82678"
+       sodipodi:cy="4074.803"
+       sodipodi:rx="212.59842"
+       sodipodi:ry="212.59842"
+       d="m -673.22836,4074.803 a 212.59842,212.59842 0 1 1 -425.19684,0 212.59842,212.59842 0 1 1 425.19684,0 z"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ffffff;stroke:#000000;stroke-width:7.08661413000000007;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;fill-opacity:1"
+       id="path4808"
+       sodipodi:sides="6"
+       sodipodi:cx="-885.82678"
+       sodipodi:cy="4074.803"
+       sodipodi:r1="1428.3528"
+       sodipodi:r2="1236.9897"
+       sodipodi:arg1="-1.0471976"
+       sodipodi:arg2="-0.52359878"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m -171.65045,2837.8131 714.17645,1236.9898 -714.17633,1236.9898 -1428.35277,1e-4 -714.1765,-1236.9898 714.1764,-1236.9898 z"
+       transform="matrix(1.0123456,0,0,1.0123456,10.936096,-50.306039)"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="fill:none;stroke:#000000;stroke-width:7.08661413;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4349"
+       sodipodi:sides="12"
+       sodipodi:cx="-885.82678"
+       sodipodi:cy="4074.803"
+       sodipodi:r1="1537.9866"
+       sodipodi:r2="3.2524385e-05"
+       sodipodi:arg1="-0.52354994"
+       sodipodi:arg2="-1.2396514"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 446.14621,3305.8747 -1331.97298,768.9282 1537.98656,0.075 -1537.98655,-0.075 1331.89786,769.0583 -1331.89785,-769.0583 768.92821,1331.973 -768.92821,-1331.973 -0.0751,1537.9865 0.0751,-1537.9865 -769.05834,1331.8979 769.05832,-1331.8979 -1331.97302,768.9282 1331.97301,-768.9282 -1537.98661,-0.075 1537.98659,0.075 -1331.89789,-769.0584 1331.89789,769.0584 -768.92819,-1331.973 768.92819,1331.973 0.0751,-1537.9866 -0.0751,1537.9866 769.05835,-1331.8979 -769.05834,1331.8978 z"
+       transform="matrix(0.99159501,0,0,0.99159501,-7.4453672,34.248687)"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(2.6965785,0,0,2.6965785,1502.8747,-6913.2231)"
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.62800218;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3394-6"
+       sodipodi:cx="-885.82678"
+       sodipodi:cy="4074.803"
+       sodipodi:rx="212.59842"
+       sodipodi:ry="212.59842"
+       d="m -673.22836,4074.803 a 212.59842,212.59842 0 1 1 -425.19684,0 212.59842,212.59842 0 1 1 425.19684,0 z"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(1.1789099,0,0,1.1789099,158.48322,-729.02273)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#ff0000;stroke-width:6.01115842;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3394-1"
+       sodipodi:cx="-885.82678"
+       sodipodi:cy="4074.803"
+       sodipodi:rx="212.59842"
+       sodipodi:ry="212.59842"
+       d="m -673.22836,4074.803 a 212.59842,212.59842 0 1 1 -425.19684,0 212.59842,212.59842 0 1 1 425.19684,0 z"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(1.3220378,0,0,1.3220378,285.26975,-1312.2409)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#ff0000;stroke-width:5.36037182;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3394-1-8"
+       sodipodi:cx="-885.82678"
+       sodipodi:cy="4074.803"
+       sodipodi:rx="212.59842"
+       sodipodi:ry="212.59842"
+       d="m -673.22836,4074.803 a 212.59842,212.59842 0 1 1 -425.19684,0 212.59842,212.59842 0 1 1 425.19684,0 z"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(1.4907244,0,0,1.4907244,434.69678,-1999.6052)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#ff0000;stroke-width:4.75380571;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3394-1-1"
+       sodipodi:cx="-885.82678"
+       sodipodi:cy="4074.803"
+       sodipodi:rx="212.59842"
+       sodipodi:ry="212.59842"
+       d="m -673.22836,4074.803 a 212.59842,212.59842 0 1 1 -425.19684,0 212.59842,212.59842 0 1 1 425.19684,0 z"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(1.6560274,0,0,1.6560274,581.12664,-2673.1825)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#ff0000;stroke-width:4.27928558;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3394-1-7"
+       sodipodi:cx="-885.82678"
+       sodipodi:cy="4074.803"
+       sodipodi:rx="212.59842"
+       sodipodi:ry="212.59842"
+       d="m -673.22836,4074.803 a 212.59842,212.59842 0 1 1 -425.19684,0 212.59842,212.59842 0 1 1 425.19684,0 z"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(1.8439828,0,0,1.8439828,747.62255,-3439.0637)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#ff0000;stroke-width:3.8431021;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3394-1-6"
+       sodipodi:cx="-885.82678"
+       sodipodi:cy="4074.803"
+       sodipodi:rx="212.59842"
+       sodipodi:ry="212.59842"
+       d="m -673.22836,4074.803 a 212.59842,212.59842 0 1 1 -425.19684,0 212.59842,212.59842 0 1 1 425.19684,0 z"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(2.003022,0,0,2.003022,888.50373,-4087.117)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#ff0000;stroke-width:3.53796123;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3394-1-6-8"
+       sodipodi:cx="-885.82678"
+       sodipodi:cy="4074.803"
+       sodipodi:rx="212.59842"
+       sodipodi:ry="212.59842"
+       d="m -673.22836,4074.803 a 212.59842,212.59842 0 1 1 -425.19684,0 212.59842,212.59842 0 1 1 425.19684,0 z"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(2.140374,0,0,2.140374,1010.1738,-4646.7993)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#ff0000;stroke-width:3.31092331;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3394-1-6-5"
+       sodipodi:cx="-885.82678"
+       sodipodi:cy="4074.803"
+       sodipodi:rx="212.59842"
+       sodipodi:ry="212.59842"
+       d="m -673.22836,4074.803 a 212.59842,212.59842 0 1 1 -425.19684,0 212.59842,212.59842 0 1 1 425.19684,0 z"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(2.3138712,0,0,2.3138712,1163.8624,-5353.7665)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#ff0000;stroke-width:3.06266579;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3394-1-6-4"
+       sodipodi:cx="-885.82678"
+       sodipodi:cy="4074.803"
+       sodipodi:rx="212.59842"
+       sodipodi:ry="212.59842"
+       d="m -673.22836,4074.803 a 212.59842,212.59842 0 1 1 -425.19684,0 212.59842,212.59842 0 1 1 425.19684,0 z"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(2.5235138,0,0,2.5235138,1349.5693,-6208.0186)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#ff0000;stroke-width:2.80823278;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3394-1-6-85"
+       sodipodi:cx="-885.82678"
+       sodipodi:cy="4074.803"
+       sodipodi:rx="212.59842"
+       sodipodi:ry="212.59842"
+       d="m -673.22836,4074.803 a 212.59842,212.59842 0 1 1 -425.19684,0 212.59842,212.59842 0 1 1 425.19684,0 z"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="fill:none;stroke:#000000;stroke-width:7.08661413;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4328"
+       sodipodi:sides="6"
+       sodipodi:cx="-885.82677"
+       sodipodi:cy="4074.8029"
+       sodipodi:r1="1136.0707"
+       sodipodi:r2="983.86607"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-1.0471976"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m -885.82675,2938.7323 983.866051,568.0354 -3e-5,1136.0706 -983.866081,568.0354 -983.86609,-568.0354 10e-5,-1136.0707 z"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="fill:none;stroke:#5ab4b9;stroke-width:70.86614227;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4351"
+       sodipodi:sides="6"
+       sodipodi:cx="-885.82678"
+       sodipodi:cy="4074.803"
+       sodipodi:r1="1573.2607"
+       sodipodi:r2="15.865946"
+       sodipodi:arg1="-1.0400503"
+       sodipodi:arg2="-0.5164515"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m -89.478572,2717.9762 -782.551548,1348.9922 1559.4239,19.079 -1559.5373,-3.2134 763.18909,1360.0401 -776.98575,-1352.2056 -796.23482,1340.9613 782.55156,-1348.9923 -1559.42386,-19.0789 1559.53726,3.2134 -763.18906,-1360.0402 776.98572,1352.2056 z"
+       transform="matrix(0.8660254,0.5,-0.5,0.8660254,1913.9072,1002.4539)"
+       inkscape:transform-center-y="381.37766"
+       inkscape:transform-center-x="-26.450037"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:7.08661417;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3394"
+       sodipodi:cx="-885.82678"
+       sodipodi:cy="4074.803"
+       sodipodi:rx="212.59842"
+       sodipodi:ry="212.59842"
+       d="m -673.22836,4074.803 a 212.59842,212.59842 0 1 1 -425.19684,0 212.59842,212.59842 0 1 1 425.19684,0 z"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:60px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-210.98714"
+       y="3927.9597"
+       id="text4353-8"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4355-6"
+         x="-210.98714"
+         y="3927.9597">Library</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-434.47534"
+       y="3546.3054"
+       id="text4353-8-2"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4355-6-8"
+         x="-434.47534"
+         y="3546.3054">Library</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-2217.4309"
+       y="3995.176"
+       id="text4353-5"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4355-1"
+         x="-2217.4309"
+         y="3995.176">Washroom</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="141.73228"
+       y="4181.1021"
+       id="text4353-5-8"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4355-1-2"
+         x="141.73228"
+         y="4181.1021">Washroom</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-1243.75"
+       y="2724.5569"
+       id="text4465"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4467"
+         x="-1243.75"
+         y="2724.5569" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-1381.8898"
+       y="3011.8108"
+       id="text4353-88"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4355-3"
+         x="-1381.8898"
+         y="3011.8108">Kitchen</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-708.66144"
+       y="2976.3777"
+       id="text4353-88-9"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4355-3-6"
+         x="-708.66144"
+         y="2976.3777">Classroom</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-1569.0552"
+       y="2763.7793"
+       id="text4353-88-2"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4355-3-0"
+         x="-1569.0552"
+         y="2763.7793" /></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:7.08661413;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -532.83097,2592.6982 1.10485,226.8497"
+       id="path4529-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:60px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-852.39368"
+       y="2763.7793"
+       id="text4353-88-4-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4355-3-8-0"
+         x="-852.39368"
+         y="2763.7793">Classroom</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-517.49603"
+       y="2763.7793"
+       id="text4353-88-4-77"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4355-3-8-8"
+         x="-517.49603"
+         y="2763.7793">Classroom</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-3736.2363"
+       y="385.5108"
+       id="text4353-88-0"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.55081583,-0.83462681,0.83462681,0.55081583,0,0)"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4355-3-4"
+         x="-3736.2363"
+         y="385.5108">Cafeteria</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:7.08661413;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -2358.4088,3670.9479 207.9837,98.7646"
+       id="path4529-4-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:transform-center-x="20.946978"
+       inkscape:transform-center-y="-64.921676"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:60px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-4336.7578"
+       y="-132.42444"
+       id="text4353-88-2-1-4-8"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.48808443,-0.87279642,0.87279642,0.48808443,0,0)"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4355-3-0-4-5-9"
+         x="-4336.7578"
+         y="-132.42444">Classroom</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-4663.1934"
+       y="-373.76868"
+       id="text4353-88-2-1-4-8-5"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.43417542,-0.90082834,0.90082834,0.43417542,0,0)"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4355-3-0-4-5-9-5"
+         x="-4663.1934"
+         y="-373.76868">Classroom</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:7.08661413;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 221.16125,3033.5041 25.256068,3147.8858"
+       id="path4529-9-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:7.08661413;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 575.41423,3643.3671 379.50905,3757.7488"
+       id="path4529-9-1-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:7.08661413;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -2341.911,4519.1876 196.185,-120.512"
+       id="path4529-4-6-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:transform-center-x="8.2204354"
+       inkscape:transform-center-y="-0.43615"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:7.08661413;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -1980.7957,5136.94 196.185,-120.512"
+       id="path4529-4-6-7-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:transform-center-x="8.2204354"
+       inkscape:transform-center-y="-0.43615"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:7.08661413;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -1240.5553,5556.5114 3.0917,-230.2219"
+       id="path4529-4-6-7-8-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:transform-center-x="4.7648854"
+       inkscape:transform-center-y="6.7128"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:7.08661413;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -529.2733,5554.9489 3.0917,-230.2219"
+       id="path4529-4-6-7-8-8-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:transform-center-x="4.7648854"
+       inkscape:transform-center-y="6.7128"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:7.08661413;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 397.48211,4357.8944 188.2955,106.3875"
+       id="path4529-4-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:transform-center-x="20.946978"
+       inkscape:transform-center-y="-64.921676"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:7.08661413;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M -0.97769051,5031.8239 207.00601,5130.5885"
+       id="path4529-4-6-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:transform-center-x="20.946978"
+       inkscape:transform-center-y="-64.921676"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:60px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="2851.2795"
+       y="3844.0066"
+       id="text4353-88-2-1-4-8-5-3"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.39987504,0.91656967,-0.91656967,0.39987504,0,0)"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4355-3-0-4-5-9-5-8"
+         x="2851.2795"
+         y="3844.0066">Classroom</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="3199.4519"
+       y="3831.312"
+       id="text4353-88-2-1-4-8-5-3-3"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.39987504,0.91656967,-0.91656967,0.39987504,0,0)"
+       inkscape:transform-center-y="32.395527"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4355-3-0-4-5-9-5-8-4"
+         x="3199.4519"
+         y="3831.312">Classroom</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="3562.5879"
+       y="3796.447"
+       id="text4353-88-2-1-4-8-5-3-7"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.39987504,0.91656967,-0.91656967,0.39987504,0,0)"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4355-3-0-4-5-9-5-8-7"
+         x="3562.5879"
+         y="3796.447">Classroom</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="3907.4158"
+       y="3714.936"
+       id="text4353-88-2-1-4-8-5-3-0"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.39987504,0.91656967,-0.91656967,0.39987504,0,0)"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4355-3-0-4-5-9-5-8-3"
+         x="3907.4158"
+         y="3714.936">Classroom</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-1532.1152"
+       y="5439.2163"
+       id="text4353-88-2-1-4-8-5-3-5"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.99993404,0.01148584,-0.01148584,0.99993404,0,0)"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4355-3-0-4-5-9-5-8-8"
+         x="-1532.1152"
+         y="5439.2163">Classroom</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-1177.6302"
+       y="5450.6133"
+       id="text4353-88-2-1-4-8-5-3-5-1"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.99993404,0.01148584,-0.01148584,0.99993404,0,0)"
+       inkscape:transform-center-x="-85.053898"
+       inkscape:transform-center-y="50.217656"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4355-3-0-4-5-9-5-8-8-4"
+         x="-1177.6302"
+         y="5450.6133">Classroom</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-787.6629"
+       y="5466.1001"
+       id="text4353-88-2-1-4-8-5-3-5-6"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.99993404,0.01148584,-0.01148584,0.99993404,0,0)"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4355-3-0-4-5-9-5-8-8-8"
+         x="-787.6629"
+         y="5466.1001">Classroom</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-433.76254"
+       y="5426.5996"
+       id="text4353-88-2-1-4-8-5-3-5-64"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.99993404,0.01148584,-0.01148584,0.99993404,0,0)"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4355-3-0-4-5-9-5-8-8-9"
+         x="-433.76254"
+         y="5426.5996">Classroom</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-4638.6797"
+       y="2667.28"
+       id="text4353-88-2-1-4-8-5-3-5-9"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.50991405,-0.86022536,0.86022536,0.50991405,0,0)"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4355-3-0-4-5-9-5-8-8-3"
+         x="-4638.6797"
+         y="2667.28">Classroom</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-4304.4971"
+       y="2675.1394"
+       id="text4353-88-2-1-4-8-5-3-5-9-4"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.50991405,-0.86022536,0.86022536,0.50991405,0,0)"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4355-3-0-4-5-9-5-8-8-3-7"
+         x="-4304.4971"
+         y="2675.1394">Classroom</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-3891.2861"
+       y="2677.3438"
+       id="text4353-88-2-1-4-8-5-3-5-9-1"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.50991405,-0.86022536,0.86022536,0.50991405,0,0)"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4355-3-0-4-5-9-5-8-8-3-9"
+         x="-3891.2861"
+         y="2677.3438">Classroom</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-3763.48"
+       y="2320.97"
+       id="text4353-88-2-1-4-8-5-3-5-9-8"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.4261091,-0.90467178,0.90467178,0.4261091,0,0)"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4355-3-0-4-5-9-5-8-8-3-92"
+         x="-3763.48"
+         y="2320.97">Classroom</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="2358.7407"
+       y="1575.7081"
+       id="text4353-88-4-77-6"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.5239339,0.85175893,-0.85175893,0.5239339,0,0)"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4355-3-8-8-4"
+         x="2358.7407"
+         y="1575.7081">Classroom</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="2693.0073"
+       y="1573.3226"
+       id="text4353-88-4-77-6-0"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.5239339,0.85175893,-0.85175893,0.5239339,0,0)"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4355-3-8-8-4-9"
+         x="2693.0073"
+         y="1573.3226">Classroom</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="3076.0186"
+       y="1559.3214"
+       id="text4353-88-4-77-6-3"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.5239339,0.85175893,-0.85175893,0.5239339,0,0)"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4355-3-8-8-4-1"
+         x="3076.0186"
+         y="1559.3214">Classroom</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="3421.9009"
+       y="1605.6809"
+       id="text4353-88-4-77-6-6"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.5239339,0.85175893,-0.85175893,0.5239339,0,0)"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4355-3-8-8-4-6"
+         x="3421.9009"
+         y="1605.6809">Classroom</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-318.89764"
+       y="3224.4092"
+       id="text4353-88-9-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4355-3-6-4"
+         x="-318.89764"
+         y="3224.4092">Classroom</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-354.33072"
+       y="4960.6299"
+       id="text4353-88-9-5"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4355-3-6-7"
+         x="-354.33072"
+         y="4960.6299">Classroom</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-637.79529"
+       y="5208.6611"
+       id="text4353-88-9-9"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4355-3-6-0"
+         x="-637.79529"
+         y="5208.6611">Classroom</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-1452.7559"
+       y="5173.228"
+       id="text4353-88-9-6"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4355-3-6-07"
+         x="-1452.7559"
+         y="5173.228">Classroom</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-1780.0197"
+       y="4971.0625"
+       id="text4353-88-9-4"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4355-3-6-9"
+         x="-1780.0197"
+         y="4971.0625">Classroom</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="138.06561"
+       y="3988.8989"
+       id="text4353-88-9-58"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4355-3-6-04"
+         x="138.06561"
+         y="3988.8989">Classroom</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-787.11664"
+       y="3296.979"
+       id="text4353-3"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4355-62"
+         x="-787.11664"
+         y="3296.979">Teacher</tspan><tspan
+         sodipodi:role="line"
+         x="-787.11664"
+         y="3371.979"
+         id="tspan5311">Offices</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-1210.7899"
+       y="4872.436"
+       id="text4353-3-0"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4355-62-5"
+         x="-1210.7899"
+         y="4872.436">Teacher</tspan><tspan
+         sodipodi:role="line"
+         x="-1210.7899"
+         y="4947.436"
+         id="tspan5311-8">Offices</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-1220.6854"
+       y="3352.1472"
+       id="text4353-8-2-8"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4355-6-8-1"
+         x="-1220.6854"
+         y="3352.1472">Library</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-805.26013"
+       y="4854.749"
+       id="text4353-8-2-88"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4355-6-8-4"
+         x="-805.26013"
+         y="4854.749">Library</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-1781.0251"
+       y="4228.3164"
+       id="text5371"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5373"
+         x="-1781.0251"
+         y="4228.3164" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-442.86792"
+       y="4686.811"
+       id="text4353-8-2-88-2"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4355-6-8-4-0"
+         x="-442.86792"
+         y="4686.811">Library</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-1578.6582"
+       y="4708.9082"
+       id="text4353-8-2-88-6"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4355-6-8-4-1"
+         x="-1578.6582"
+         y="4708.9082">Library</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-218.01378"
+       y="4252.9595"
+       id="text4353-3-0-2"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4355-62-5-4"
+         x="-218.01378"
+         y="4252.9595">Teacher</tspan><tspan
+         sodipodi:role="line"
+         x="-218.01378"
+         y="4327.9595"
+         id="tspan5311-8-2">Offices</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-1785.1172"
+       y="3915.675"
+       id="text4353-3-8"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4355-62-3"
+         x="-1785.1172"
+         y="3915.675">Teacher</tspan><tspan
+         sodipodi:role="line"
+         x="-1785.1172"
+         y="3990.675"
+         id="tspan5311-9">Offices</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-1581.9922"
+       y="3541.1096"
+       id="text4353-8-2-8-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4355-6-8-1-0"
+         x="-1581.9922"
+         y="3541.1096">Library</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-1794.4922"
+       y="4291.1099"
+       id="text4353-8-2-8-3"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4355-6-8-1-7"
+         x="-1794.4922"
+         y="4291.1099">Library</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-3295.2754"
+       y="-875.82678"
+       id="text4353-8-2-8-6"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4355-6-8-1-5"
+         x="-3295.2754"
+         y="-875.82678">Stairs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-3655.3018"
+       y="3140.9495"
+       id="text4353-8-2-8-6-5"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.86983245,-0.49334725,0.49334725,0.86983245,0,0)"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4355-6-8-1-5-4"
+         x="-3655.3018"
+         y="3140.9495">Stairs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="2124.4724"
+       y="3948.2629"
+       id="text4353-8-2-8-6-5-5"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.85281753,0.52220902,-0.52220902,0.85281753,0,0)"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4355-6-8-1-5-4-6"
+         x="2124.4724"
+         y="3948.2629">Stairs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-2224.0295"
+       y="4179.9741"
+       id="text4353-88-9-58-4"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4355-3-6-04-3"
+         x="-2224.0295"
+         y="4179.9741">Classroom</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:244.74916077px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-4313.1816"
+       y="4202.4829"
+       id="text5659"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5661"
+         x="-4313.1816"
+         y="4202.4829">Garden</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:244.74916077px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-318.89764"
+       y="6696.8501"
+       id="text5659-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5661-3"
+         x="-318.89764"
+         y="6696.8501">Industrial Shops</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-2700"
+       y="6255.8071"
+       id="text5684"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5686"
+         x="-2700"
+         y="6255.8071" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:244.74916077px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="663.38135"
+       y="1980.2878"
+       id="text5659-1-2"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.83615195,0.54849787,-0.54849787,0.83615195,0,0)"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5661-3-5"
+         x="663.38135"
+         y="1980.2878">Sports Field</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:12.54809284;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect5709"
+       width="1751.8802"
+       height="2413.5408"
+       x="-1647.5359"
+       y="81.252907"
+       transform="matrix(0.51506436,-0.85715151,0.85715151,0.51506436,0,0)"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:244.74916077px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1440.83"
+       y="4105.7261"
+       id="text5659-1-2-1"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.99837777,0.05693711,-0.05693711,0.99837777,0,0)"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5661-3-5-4"
+         x="1440.83"
+         y="4105.7261">Sports Facilities</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-3550"
+       y="6643.3071"
+       id="text5732"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5734"
+         x="-3550"
+         y="6643.3071" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:244.74916077px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-3384.2229"
+       y="6635.8281"
+       id="text5659-1-5"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5661-3-9"
+         x="-3384.2229"
+         y="6635.8281">Small Business</tspan><tspan
+         sodipodi:role="line"
+         x="-3384.2229"
+         y="6941.7646"
+         id="tspan5757">Initiative</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5800"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:10px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion5802"><rect
+           id="rect5804"
+           width="1025"
+           height="300"
+           x="337.5"
+           y="6705.8071" /></flowRegion><flowPara
+         id="flowPara5806" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:201.63801575px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-1204.7244"
+       y="2444.8816"
+       id="text5816"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5818"
+         x="-1204.7244"
+         y="2444.8816">Parking</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#5ab4b9;stroke-width:35.43307114;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3281-3-9"
+       sodipodi:cx="-3897.6377"
+       sodipodi:cy="1665.3541"
+       sodipodi:rx="850.39368"
+       sodipodi:ry="850.39368"
+       d="m -3047.244,1665.3541 a 850.39368,850.39368 0 1 1 -1700.7874,0 850.39368,850.39368 0 1 1 1700.7874,0 z"
+       transform="matrix(0.81632655,0,0,0.81632655,-328.43453,293.53745)"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#5ab4b9;stroke-width:35.43307114;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3281-3-9-2"
+       sodipodi:cx="-3897.6377"
+       sodipodi:cy="1665.3541"
+       sodipodi:rx="850.39368"
+       sodipodi:ry="850.39368"
+       d="m -3047.244,1665.3541 a 850.39368,850.39368 0 1 1 -1700.7874,0 850.39368,850.39368 0 1 1 1700.7874,0 z"
+       transform="matrix(0.81632655,0,0,0.81632655,1501.4375,-767.14172)"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#5ab4b9;stroke-width:35.43307114;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3281-3-9-2-9"
+       sodipodi:cx="-3897.6377"
+       sodipodi:cy="1665.3541"
+       sodipodi:rx="850.39368"
+       sodipodi:ry="850.39368"
+       d="m -3047.244,1665.3541 a 850.39368,850.39368 0 1 1 -1700.7874,0 850.39368,850.39368 0 1 1 1700.7874,0 z"
+       transform="matrix(0.81632655,0,0,0.81632655,1041.7673,533.10437)"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:244.74916077px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-3826.7717"
+       y="1877.9525"
+       id="text5659-1-5-6"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="-3826.7717"
+         y="1877.9525"
+         id="tspan5757-3">Dorms / Housing</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-3794.1921"
+       y="169.03625"
+       id="text4353-88-0-0"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.55081583,-0.83462681,0.83462681,0.55081583,0,0)"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4355-3-4-4"
+         x="-3794.1921"
+         y="169.03625">Cafeteria</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-1183.8845"
+       y="2802.7195"
+       id="text4353-88-0-0-7"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.99827365,0.05873439,-0.05873439,0.99827365,0,0)"
+       inkscape:export-filename="/home/david/Documents/Projects/NEBCOM/V8/8-community centre floor 1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4355-3-4-4-3"
+         x="-1183.8845"
+         y="2802.7195">Cafeteria</tspan></text>
+  </g>
+</svg>
